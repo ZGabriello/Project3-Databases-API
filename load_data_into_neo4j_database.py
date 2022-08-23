@@ -56,3 +56,18 @@ with driver.session() as session:
     session.run(query)
 
 print('done')
+
+print('Creating Relationships')
+
+query = '''
+LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/d1535dfe3bc047326e5c264b1a5249798f3120e9/edges.csv' AS row
+MATCH (e:Edge) WHERE e.hero = row.hero
+MATCH (n:Node) WHERE n.name = row.comic
+CREATE (e)-[:APPEAR_IN]->(n);
+'''
+
+with driver.session() as session:
+    print(query)
+    session.run(query)
+
+print('done')
