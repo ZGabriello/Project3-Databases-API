@@ -21,7 +21,7 @@ print('done')
 print('Inserting nodes')
 
 query = '''
-LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/main/nodes.csv' AS row
+LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/a4c5f0933cae4d896a04bcf4e178db2a735166f8/nodes.csv' AS row
 CREATE (:Node {name: row.node, type: row.type});
 '''
 
