@@ -35,7 +35,7 @@ print('Inserting edges')
 
 query = '''
 LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/main/edges.csv' AS row
-CREATE (:Edge {hero_name: row.hero, comic_name: row.comic});
+CREATE (:Edge {hero: row.hero, comic: row.comic});
 '''
 
 with driver.session() as session:
