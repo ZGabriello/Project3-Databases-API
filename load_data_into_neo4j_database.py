@@ -44,17 +44,3 @@ with driver.session() as session:
 
 print('done')
 
-print('Creating relationships')
-
-query = '''
-LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/main/hero-network.csv' AS row
-MATCH (n:Node) WHERE n.name = row.hero1
-MATCH (e:Edge) WHERE e.hero_name = row.hero2
-CREATE (n)-[:APPEAR_IN]->(e)
-'''
-
-with driver.session() as session:
-    print(query)
-    session.run(query)
-
-print('done')
