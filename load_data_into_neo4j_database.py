@@ -31,6 +31,34 @@ with driver.session() as session:
 
 print('done')
 
+print('Inserting heroes')
+
+query = '''
+LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/a4c5f0933cae4d896a04bcf4e178db2a735166f8/nodes.csv' AS row
+MATCH (n:Node) WHERE n.type CONTAINS "hero"
+CREATE (:Hero {name: n.node});
+'''
+
+with driver.session() as session:
+    print(query)
+    session.run(query)
+
+print('done')
+
+print('Inserting comics')
+
+query = '''
+LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/a4c5f0933cae4d896a04bcf4e178db2a735166f8/nodes.csv' AS row
+MATCH (n:Node) WHERE n.type CONTAINS "comic"
+CREATE (:Comic {name: n.node});
+'''
+
+with driver.session() as session:
+    print(query)
+    session.run(query)
+
+print('done')
+
 print('Inserting edges')
 
 query = '''
