@@ -31,34 +31,6 @@ with driver.session() as session:
 
 print('done')
 
-print('Inserting heroes')
-
-query = '''
-LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/a4c5f0933cae4d896a04bcf4e178db2a735166f8/nodes.csv' AS row
-MATCH (n:Node) WHERE n.type CONTAINS "hero"
-CREATE (:Hero {name: n.node});
-'''
-
-with driver.session() as session:
-    print(query)
-    session.run(query)
-
-print('done')
-
-print('Inserting comics')
-
-query = '''
-LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/a4c5f0933cae4d896a04bcf4e178db2a735166f8/nodes.csv' AS row
-MATCH (n:Node) WHERE n.type CONTAINS "comic"
-CREATE (:Comic {name: n.node});
-'''
-
-with driver.session() as session:
-    print(query)
-    session.run(query)
-
-print('done')
-
 print('Inserting edges')
 
 query = '''
@@ -72,3 +44,15 @@ with driver.session() as session:
 
 print('done')
 
+print('Inserting hero_network')
+
+query = '''
+LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/0d8ddaa6365fb10974d9c5cf9e3d0f09962e552f/hero-network.csv' AS row
+CREATE (:Same_comic {hero1: row.hero1, hero2: row.hero2});
+'''
+
+with driver.session() as session:
+    print(query)
+    session.run(query)
+
+print('done')
