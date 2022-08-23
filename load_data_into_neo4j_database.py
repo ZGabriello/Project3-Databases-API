@@ -50,7 +50,7 @@ query = '''
 LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/main/hero-network.csv' AS row
 MATCH (n:Node) WHERE n.name = row.hero1
 MATCH (e:Edge) WHERE e.hero_name = row.hero2
-CREATE (n.name)-[:APPEAR_IN]->(e.comic_name)<-[:APPEAR_IN]-(e.hero_name)
+CREATE (n)-[:APPEAR_IN]->(e)
 '''
 
 with driver.session() as session:
