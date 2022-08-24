@@ -18,11 +18,24 @@ with driver.session() as session:
 print('done')
 
 # inserting data
-print('Inserting nodes')
+print('Inserting heroes')
 
 query = '''
-LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/a4c5f0933cae4d896a04bcf4e178db2a735166f8/nodes.csv' AS row
-CREATE (:Node {name: row.node, type: row.type});
+LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/4eda7574890aca72f304a7e7a874da2715208a40/hero.csv' AS row
+CREATE (:Hero {name: row.node});
+'''
+
+with driver.session() as session:
+    print(query)
+    session.run(query)
+
+print('done')
+
+print('Inserting Comics')
+
+query = '''
+LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/4eda7574890aca72f304a7e7a874da2715208a40/comic.csv' AS row
+CREATE (:Comic {name: row.node});
 '''
 
 with driver.session() as session:
@@ -61,9 +74,9 @@ print('Creating Relationships')
 
 query = '''
 LOAD CSV WITH HEADERS FROM 'https://github.com/ZGabriello/Project3-Databases-API/blob/d1535dfe3bc047326e5c264b1a5249798f3120e9/edges.csv' AS row
-MATCH (e:Edge) WHERE e.hero = row.hero
-MATCH (n:Node) WHERE n.name = row.comic
-CREATE (e)-[:APPEAR_IN]->(n);
+MATCH (h:Hero) WHERE h.name = row.hero
+MATCH (c:Comic) WHERE c.name = row.comic
+CREATE (h)-[:APPEAR_IN]->(c);
 '''
 
 with driver.session() as session:
