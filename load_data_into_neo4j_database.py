@@ -57,26 +57,28 @@ with driver.session() as session:
 
 print('done')
 
-#print('Inserting Hero_Network')
-
-#query = '''
-#LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/ZGabriello/Project3-Databases-API/main/hero-network.csv' AS row
-#CREATE (:Hero_Network {hero1: row.hero1, hero2: row.hero2});
-#'''
-
-#with driver.session() as session:
-#    print(query)
-#    session.run(query)
-
-#print('done')
-
-print('Creating Relationships')
+print('Creating Relationships between hero and comic')
 
 query = '''
 LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/ZGabriello/Project3-Databases-API/main/edges.csv' AS row
 MATCH (h:Hero) WHERE h.name = row.hero
 MATCH (c:Comic) WHERE c.name = row.comic
 CREATE (h)-[:APPEAR_IN]->(c);
+'''
+
+with driver.session() as session:
+    print(query)
+    session.run(query)
+
+print('done')
+
+print('Creating relationships between Heroes')
+
+query = '''
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/ZGabriello/Project3-Databases-API/main/hero-network.csv' AS row
+MATCH (h1:Hero) WHERE h1.name = row.hero1
+MATCH (h2:Hero) WHERE h2.name = row.hero2
+CREATE (h1)-[:APPEAR_IN_THE_SAME_COMIC_THAN]->(h2);
 '''
 
 with driver.session() as session:
