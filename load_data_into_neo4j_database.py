@@ -57,18 +57,18 @@ with driver.session() as session:
 
 print('done')
 
-print('Inserting Hero_Network')
+#print('Inserting Hero_Network')
 
-query = '''
-LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/ZGabriello/Project3-Databases-API/main/hero-network.csv' AS row
-CREATE (:Hero_Network {hero1: row.hero1, hero2: row.hero2});
-'''
+#query = '''
+#LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/ZGabriello/Project3-Databases-API/main/hero-network.csv' AS row
+#CREATE (:Hero_Network {hero1: row.hero1, hero2: row.hero2});
+#'''
 
-with driver.session() as session:
-    print(query)
-    session.run(query)
+#with driver.session() as session:
+#    print(query)
+#    session.run(query)
 
-print('done')
+#print('done')
 
 print('Creating Relationships')
 
