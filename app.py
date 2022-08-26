@@ -16,11 +16,11 @@ def list_heroes():
     query = """
     match (n:Hero) return n.name as name limit 10
     """
-    data = {}
     results = session.run(query)
+    data = []
     for result in results:
-        data["name"] = result["name"]
-        return """
+        data.append(result["name"])
+    return """
         La liste test des heros de comics est :
         {}
         """.format(data)
