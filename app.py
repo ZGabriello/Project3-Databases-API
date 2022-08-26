@@ -21,7 +21,7 @@ def list_heroes():
     for result in results:
         data.append(result["name"])
     return """
-        La liste test des heros de comics est :
+        <h3> La liste test des heros de comics est : </h3>
         {}
         """.format(data)
   
