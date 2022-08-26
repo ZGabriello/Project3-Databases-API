@@ -17,8 +17,9 @@ def list_heroes():
     match (n:Hero) return n.name as name limit 10
     """
     results = session.run(query)
+    print("La liste test des heros de comics est : \n")
     for result in results:
-        return "La liste test des heros de comics est : {}".format(result["name"])
+        return "{}".format(result["name"])
   
 if __name__ == "__main__":
     app.run(host="0.0.0.0",debug=True)
