@@ -19,7 +19,7 @@ def list_heroes():
     results = session.run(query)
     data = []
     for result in results:
-        list.append(result["name"])
+        data.append(result["name"])
     return """
         La liste test des heros de comics est :
         {}
