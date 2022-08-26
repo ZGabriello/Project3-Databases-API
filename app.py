@@ -20,6 +20,7 @@ def list_heroes():
     for result in results:
         return """
         La liste test des heros de comics est :
+        {}
         """.format(result["name"])
   
 if __name__ == "__main__":
