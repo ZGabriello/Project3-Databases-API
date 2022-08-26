@@ -7,20 +7,16 @@ app = Flask(__name__)
 driver = GraphDatabase.driver(uri="bolt://52.48.111.88:7687", auth=("neo4j", "neo4j"))
 session = driver.session()
 
-query = """
-match (n:Hero) return n.name as name limit 10
-"""
-results = session.run(query)
-
-for result in results:
-    print(result["name"])
-
 @app.route("/")
 def welcome():
     return "<h1> Welcome to the API that manage requests to our Neo4J BDD !  </h1>"
 
 @app.route("/heroes")
 def list_heroes():
+    query = """
+    match (n:Hero) return n.name as name limit 10
+    """
+    results = session.run(query)
     return "La liste des heros de comics est : {}".format(results)
   
 if __name__ == "__main__":
