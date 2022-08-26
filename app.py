@@ -14,14 +14,28 @@ def welcome():
 @app.route("/heroes")
 def list_heroes():
     query = """
-    match (n:Hero) return n.name as name 
+    match (h:Hero) return h.name as name 
     """
     results = session.run(query)
     data = []
     for result in results:
         data.append(result["name"])
     return """
-        <h3> La liste test des heros de comics est : </h3>
+        <h3> La liste des heros de comics est : </h3>
+        {}
+        """.format(data)
+
+@app.route("/comics")
+def list_comics():
+    query = """
+    match (c:Comic) return c.name as name 
+    """
+    results = session.run(query)
+    data = []
+    for result in results:
+        data.append(result["name"])
+    return """
+        <h3> La liste des comics est : </h3>
         {}
         """.format(data)
   
