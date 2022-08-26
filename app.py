@@ -14,7 +14,7 @@ def welcome():
 @app.route("/heroes")
 def list_heroes():
     query = """
-    match (n:Hero) return n.name as name limit 10
+    match (n:Hero) return n.name as name 
     """
     results = session.run(query)
     data = []
