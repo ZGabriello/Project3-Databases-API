@@ -20,8 +20,7 @@ def list_heroes():
     results = session.run(query)
     for result in results:
         data["name"] = result["name"]
-        
-    return """
+        return """
         La liste test des heros de comics est :
         {}
         """.format(data)
