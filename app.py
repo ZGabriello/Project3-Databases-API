@@ -11,6 +11,10 @@ session = driver.session()
 def welcome():
     return "<h1> Welcome to the API that manage requests to our Neo4J BDD !  </h1>"
 
+@app.route('/success/<name>')
+def success(name):
+   return 'On a bien ajouté %s à la base' % name
+
 @app.route("/heroes")
 def list_heroes():
     query = """
@@ -72,19 +76,17 @@ def hero_and_comic():
         {}
         """.format(data)
 
-@app.route("/add_hero", methods = ["POST"])
+@app.route("/add_hero", methods = ["POST", "GET"])
 def add_new_hero():
-    hero_name = request.form['heroName']
-    query = """
-    CREATE (h:Hero {name: {} })
-    """.format(hero_name)
-    session.run(query)
-    return 'Le hero a bien été ajouter !'
-    return '''<form method = "post">
-              <p>Entré le nom du hero de comic :</p>
-              <p><input type = "text" name = "heroName" /></p>
-              <p><input type = "submit" value = "creer" /></p>
-              </form>'''
+    if request.method == 'POST':
+        hero_name = request.form["hero"]
+        query = """
+        CREATE (h:Hero {name: {} }) return h.name as hero
+        """.format(hero_name)
+        result = session.run(query)
+        return redirect(url_for('success',name = hero_name))
+    
+    
   
 if __name__ == "__main__":
     app.run(host="0.0.0.0",debug=True)
