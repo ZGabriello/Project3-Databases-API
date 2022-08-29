@@ -48,10 +48,10 @@ def list_comics():
         compteur = compteur + 1 
     for i in range(len(data)):
         resultat[index[i]] = data[i]
-        return """
+    return """
         <h3> La liste des comics est : </h3>
         {}
-        """.format(resultat[i])
+        """.format(resultat)
 
 @app.route("/hero_appearing_in_comic")
 def hero_and_comic():
