@@ -72,8 +72,8 @@ def hero_and_comic():
         {}
         """.format(data)
 
-@app.route("/add_hero", methods = ['POST'])
-def add_hero():
+@app.route("/add_hero", methods = ["POST"])
+def add_new_hero():
     hero_name = request.form['heroName']
     query = """
     CREATE (h:Hero {name: {} })
