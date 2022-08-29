@@ -15,6 +15,10 @@ def welcome():
 def success(name):
    return 'On a bien ajouté %s à la base' % name
 
+@app.route('/deleted/<name>')
+def deleted(name):
+   return 'On a bien supprimé %s à la base' % name
+
 @app.route("/heroes")
 def list_heroes():
     query = """
@@ -84,10 +88,41 @@ def add_new_hero():
         CREATE (h:Hero {name:$name}) return h.name as hero
         """
         x = {'name': hero_name}
-        resuilts = session.run(query, x)
+        results = session.run(query, x)
         return redirect(url_for('success',name = hero_name))
     
-    
+@app.route("/add_comic", methods = ["POST", "GET"])
+def add_new_comic():
+    if request.method == 'POST':
+        comic_name = request.form["comic"]
+        query = """
+        CREATE (c:Comic {name:$name}) return c.name as comic
+        """
+        x = {'name': comic_name}
+        results = session.run(query, x)
+        return redirect(url_for('success',name = comic_name))
+
+@app.route("/delete_hero",methods=["DELETE"])
+def delete_hero():
+    if request.method == 'DELETE':
+        hero_name = request.form["hero"]
+        query = """
+        MATCH (h:Hero {name:$name}) DETACH DELETE h
+        """
+        x = {'name': hero_name}
+        results = session.run(query, x)
+        return redirect(url_for('deleted',name = hero_name))
+
+@app.route("/delete_comic",methods=["DELETE"])
+def delete_comic():
+    if request.method == 'DELETE':
+        comic_name = request.form["comic"]
+        query = """
+        MATCH (c:Comic {name:$name}) DETACH DELETE c
+        """
+        x = {'name': comic_name}
+        results = session.run(query, x)
+        return redirect(url_for('deleted',name = comic_name))
   
 if __name__ == "__main__":
     app.run(host="0.0.0.0",debug=True)
