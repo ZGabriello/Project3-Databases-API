@@ -20,11 +20,10 @@ def list_heroes():
     data = {}
     for result in results:
         data["hero"] = result["name"]
-    for i in data.items():
-        return """
+    return """
         <h3> La liste des heros de comics est : </h3>
         {}
-        """.format(i)
+        """.format(data.items())
 
 @app.route("/comics")
 def list_comics():
