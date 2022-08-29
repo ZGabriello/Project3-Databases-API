@@ -17,9 +17,9 @@ def list_heroes():
     match (h:Hero) return h.name as name 
     """
     results = session.run(query)
-    dico = {}
+    data = []
     for result in results:
-        dico["name"] = result["name"]
+        data.append(result["name"]) 
     return """
         <h3> La liste des heros de comics est : </h3>
         {}
