@@ -34,3 +34,25 @@ export FLASK_ENV=development
 flask run --host=0.0.0.0
 
 On pourra ainsi accéder à l'api sur l'adresse "localhost:5000" ou "adresse_ip_vm:5000" 
+
+Les routes disponible sont : 
+
+/ : Page d'accueil 
+
+/heroes : Permet d'accéder à la liste de héros de comic de la base de données 
+
+/comics : Permet d'accéder à la liste de comics de la base de données 
+
+/hero_appearing_in_comic : Permet d'accéder à la liste de héros et de comics dans lequel ils apparaisent de la base de données 
+
+/add_hero : Permet d'ajouter un hero à la liste de héros de comic de la base de données 
+Pour cela il faut ouvrir le html correspondant au formulaire d'ajout
+
+/add_comic : Permet d'ajouter un comic à la liste de comic de la base de données 
+Pour cela il faut ouvrir le html correspondant au formulaire d'ajout
+
+/delete_hero : Permet de supprimer un hero de la liste de héros de comic de la base de données 
+Pour cela il faut ouvrir le html correspondant au formulaire d'ajout
+
+/delete_comic : Permet de supprimer un comic de la liste de comic de la base de données 
+Pour cela il faut ouvrir le html correspondant au formulaire d'ajout
