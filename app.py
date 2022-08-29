@@ -60,9 +60,13 @@ def hero_and_comic():
     """
     results = session.run(query)
     data = {}
+    hero = []
+    comic = [] 
     for result in results:
-        data["hero"] = result["hero"]
-        data["comic"] = result["comic"]
+        hero.append(results["hero"])
+        comic.append(results["comic"])
+    for i in range(len(hero)):
+        data[hero[i]] = comic[i]
     return """
         <h3> La liste des heros apparaissant dans le même comic est : </h3>
         {}
