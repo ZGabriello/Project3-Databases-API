@@ -59,14 +59,13 @@ def hero_and_comic():
     match (n)-[:APPEAR_IN]->(p) return n.name as hero,p.name as comic limit 10 
     """
     results = session.run(query)
-    data = {}
+    data = []
     hero = []
     comic = [] 
     for result in results:
         hero.append(results["hero"])
         comic.append(results["comic"])
-    for i in range(len(hero)):
-        data[hero[i]] = comic[i]
+        data.append([hero,comic])
     return """
         <h3> La liste des heros apparaissant dans le même comic est : </h3>
         {}
