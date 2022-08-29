@@ -71,6 +71,20 @@ def hero_and_comic():
         <h3> La liste des heros apparaissant dans un comic est : </h3>
         {}
         """.format(data)
+
+@app.route("/add_hero", methods = ['POST'])
+def add_hero():
+    hero_name = request.form['heroName']
+    query = """
+    CREATE (h:Hero {name: {} })
+    """.format(hero_name)
+    session.run(query)
+    return 'Le hero a bien été ajouter !'
+    return '''<form method = "post">
+              <p>Entré le nom du hero de comic :</p>
+              <p><input type = "text" name = "heroName" /></p>
+              <p><input type = "submit" value = "creer" /></p>
+              </form>'''
   
 if __name__ == "__main__":
     app.run(host="0.0.0.0",debug=True)
