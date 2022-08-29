@@ -24,6 +24,7 @@ def list_heroes():
     for result in results:
         index.append(compteur)
         data.append(result["name"])
+        compteur = compteur + 1 
     for i in range(len(data)):
         resultat[index[i]] = data[i]
     return """
