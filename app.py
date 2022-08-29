@@ -18,12 +18,14 @@ def list_heroes():
     """
     results = session.run(query)
     data = []
+    dico = {}
     for result in results:
         data.append(result["name"])
+        dico["name"] = resuslt["name"]
     return """
         <h3> La liste des heros de comics est : </h3>
         {}
-        """.format(data)
+        """.format(dico)
 
 @app.route("/comics")
 def list_comics():
@@ -47,7 +49,7 @@ def hero_and_comic():
     results = session.run(query)
     data_hero = []
     data_comic = []
-    data
+    data = []
     for result in results:
         data_hero.append(result["hero"])
         data_comic.append(result["comic"])
