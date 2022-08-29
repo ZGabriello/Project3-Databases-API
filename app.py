@@ -19,6 +19,10 @@ def success(name):
 def deleted(name):
    return 'On a bien supprimé %s à la base' % name
 
+@app.route('/success_relation')
+def success_relation():
+   return 'On a bien ajouté la relation à la base'
+
 @app.route("/heroes")
 def list_heroes():
     query = """
@@ -123,6 +127,20 @@ def delete_comic():
         x = {'name': comic_name}
         results = session.run(query, x)
         return redirect(url_for('deleted',name = comic_name))
+
+app.route("/add_relation", methods = ["POST", "GET"])
+def add_relation():
+    if request.method == 'POST':
+        hero_name = request.form["hero"]
+        comic_name = request.form["comic"]
+        query = """
+        MATCH (h:Hero {name: $hero_name})
+        MATCH (c:Comic {name: $comic_name})
+        CREATE (h) -[:APPEAR_IN]-> (c)
+        """
+        x = {'hero_name': hero_name, 'comic_name': comic_name}
+        results = session.run(query, x)
+        return redirect(url_for('success_relation'))
   
 if __name__ == "__main__":
     app.run(host="0.0.0.0",debug=True)
