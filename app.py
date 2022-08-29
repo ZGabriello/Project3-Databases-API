@@ -19,7 +19,7 @@ def list_heroes():
     results = session.run(query)
     data = {}
     for result in results:
-        data["hero"] = result["name"]
+        data = result["name"]
     return """
         <h3> La liste des heros de comics est : </h3>
         {}
