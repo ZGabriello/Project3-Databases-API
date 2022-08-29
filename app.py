@@ -102,9 +102,9 @@ def add_new_comic():
         results = session.run(query, x)
         return redirect(url_for('success',name = comic_name))
 
-@app.route("/delete_hero",methods=["DELETE"])
+@app.route("/delete_hero",methods=["POST", "GET"])
 def delete_hero():
-    if request.method == 'DELETE':
+    if request.method == 'POST':
         hero_name = request.form["hero"]
         query = """
         MATCH (h:Hero {name:$name}) DETACH DELETE h
@@ -113,9 +113,9 @@ def delete_hero():
         results = session.run(query, x)
         return redirect(url_for('deleted',name = hero_name))
 
-@app.route("/delete_comic",methods=["DELETE"])
+@app.route("/delete_comic",methods=["POST", "GET"])
 def delete_comic():
-    if request.method == 'DELETE':
+    if request.method == 'POST':
         comic_name = request.form["comic"]
         query = """
         MATCH (c:Comic {name:$name}) DETACH DELETE c
