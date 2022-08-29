@@ -56,7 +56,7 @@ def list_comics():
 @app.route("/hero_appearing_in_comic")
 def hero_and_comic():
     query = """
-    match (n)-[:APPEAR_IN]->(p) return n.name as hero,p.name as comic 
+    match (n)-[:APPEAR_IN]->(p) return n.name as hero,p.name as comic limit 200
     """
     results = session.run(query)
     data = {}
