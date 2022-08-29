@@ -56,3 +56,7 @@ Pour cela il faut ouvrir le html correspondant au formulaire d'ajout
 
 /delete_comic : Permet de supprimer un comic de la liste de comic de la base de données 
 Pour cela il faut ouvrir le html correspondant au formulaire d'ajout
+
+# Docker 
+
+Le docker compose va du coup lancer le docker de Neo4j, le script de chargement de données et lancer flask.
