@@ -17,10 +17,8 @@ def list_heroes():
     match (h:Hero) return h.name as name 
     """
     results = session.run(query)
-    data = []
     dico = {}
     for result in results:
-        data.append(result["name"])
         dico["name"] = resuslt["name"]
     return """
         <h3> La liste des heros de comics est : </h3>
@@ -47,15 +45,12 @@ def hero_and_comic():
     match (n)-[:APPEAR_IN]->(p) return n.name as hero,p.name as comic limit 10 
     """
     results = session.run(query)
-    data_hero = []
-    data_comic = []
-    data = []
+    data = {}
     for result in results:
-        data_hero.append(result["hero"])
-        data_comic.append(result["comic"])
-        data.append([data_hero,data_comic])
+        data["hero"] = result["hero"]
+        data["comic"] = result["comic"]
     return """
-        <h3> La liste des comics est : </h3>
+        <h3> La liste des heros apparaissant dans le même comic est : </h3>
         {}
         """.format(data)
   
