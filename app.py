@@ -23,7 +23,7 @@ def list_heroes():
     return """
         <h3> La liste des heros de comics est : </h3>
         {}
-        """.format(dico)
+        """.format(data)
 
 @app.route("/comics")
 def list_comics():
