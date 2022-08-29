@@ -56,7 +56,7 @@ def list_comics():
 @app.route("/hero_appearing_in_comic")
 def hero_and_comic():
     query = """
-    match (n)-[:APPEAR_IN]->(p) return n.name as hero,p.name as comic limit 10 
+    match (n)-[:APPEAR_IN]->(p) return n.name as hero,p.name as comic limit 100 
     """
     results = session.run(query)
     data = {}
@@ -68,7 +68,7 @@ def hero_and_comic():
     for i in range(len(hero)):
         data[hero[i]] = comic[i]
     return """
-        <h3> La liste des heros apparaissant dans le même comic est : </h3>
+        <h3> La liste des heros apparaissant dans un comic est : </h3>
         {}
         """.format(data)
   
