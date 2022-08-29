@@ -19,7 +19,7 @@ def list_heroes():
     results = session.run(query)
     dico = {}
     for result in results:
-        dico["name"] = resuslt["name"]
+        dico["name"] = result["name"]
     return """
         <h3> La liste des heros de comics est : </h3>
         {}
