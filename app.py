@@ -81,9 +81,10 @@ def add_new_hero():
     if request.method == 'POST':
         hero_name = request.form["hero"]
         query = """
-        CREATE (h:Hero {name: {}}) return h.name as hero
-        """.format(hero_name)
-        session.run(query)
+        CREATE (h:Hero {name:$name}) return h.name as hero
+        """
+        x = {'name': hero_name}
+        resuilts = session.run(query, x)
         return redirect(url_for('success',name = hero_name))
     
     
