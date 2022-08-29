@@ -39,12 +39,19 @@ def list_comics():
     """
     results = session.run(query)
     data = []
+    compteur = 0 
+    index = []
+    resultat = {}
     for result in results:
+        index.append(compteur)
         data.append(result["name"])
-    return """
+        compteur = compteur + 1 
+    for i in range(len(data)):
+        resultat[index[i]] = data[i]
+        return """
         <h3> La liste des comics est : </h3>
         {}
-        """.format(data)
+        """.format(resultat[i])
 
 @app.route("/hero_appearing_in_comic")
 def hero_and_comic():
