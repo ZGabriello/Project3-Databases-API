@@ -17,13 +17,19 @@ def list_heroes():
     match (h:Hero) return h.name as name 
     """
     results = session.run(query)
-    data = {}
+    compteur = 0 
+    index = []
+    data = []
+    resultat = {}
     for result in results:
-        data = result["name"]
+        index.append(compteur)
+        data.append(result["name"])
+    for i in range(len(data)):
+        resultat[index[i]] = data[i]
     return """
         <h3> La liste des heros de comics est : </h3>
         {}
-        """.format(data)
+        """.format(resultat)
 
 @app.route("/comics")
 def list_comics():
