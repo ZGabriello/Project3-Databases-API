@@ -62,4 +62,4 @@ Pour cela il faut ouvrir le html correspondant au formulaire d'ajout
 
 # Docker 
 
-Le docker compose va du coup lancer le docker de Neo4j, le script de chargement de données et lancer flask.
+Un potentiel docker compose pour lancer le docker de Neo4j, le script de chargement de données et lancer flask serait intéressant pour ce projet.
