@@ -8,6 +8,7 @@ L’objectif de ce projet est de choisir, mettre en place, et peupler une base d
 
 Le data choisit pour ce projet est : https://www.kaggle.com/csanhueza/the-marvel-universe-social-network.
 Ce sont des données qui sont orientées graphes donc on va plutôt s'orienter vers Neo4J pour le choix du BDD que l'on va utiliser.
+En effet, Neo4j est pour moi sur ce dataset le meilleur choix de base de données au vu des fichiers csv qu'on a et des relations entre les noeuds. 
 
 # Utilisation 
 
@@ -22,6 +23,8 @@ On pourra ainsi accéder à Neo4j sur l'adresse "localhost:7474" ou "adresse_ip_
 Nous avons un script python qui va lancer le chargement des données dans la base de données de Neo4j pour cela il suffit de faire la commande suivante depuis le répertoire contenant le script "load_data_into_neo4j_database.py" : 
 
 python3 load_data_into_neo4j_database.py
+
+A noter : Le chargement des données mets du temps, surtout pour la mise en place des relations entre les heros et les comics.
 
 # API Flask 
 
