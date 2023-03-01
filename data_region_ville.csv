@@ -1,0 +1,676 @@
+;Entreprise;Adresse;Code_postal;Ville;Numero_departement;Departement;Region;Longitude;Latitude
+0;IPRA FRAGRANCES;Parc d'activités de l'Argile ;6370;Mouans-Sartoux;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9703991;43,6203852
+1;LABORATOIRE AGUETTANT - Saint Fons (69);QUAI LOUIS AULAGNE ;69190;Saint-Fons;69;Rhône;Auvergne-Rhône-Alpes;4,84935;45,7001
+2;EVOTEC ID (Lyon) SAS - Siège de Lyon (69);40 avenue Tony Garnier ;69007;Lyon;69;Rhône;Auvergne-Rhône-Alpes;4,8320114;45,7578137
+3;Jean GAZIGNAIRE S.A.S.;147 route de la Fénerie ;6580;Pégomas;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9306639;43,5928477
+4;Communauté d'agglomération Flers Agglo;41 rue de la Boule B.P.149;61103;Flers;61;Orne;Normandie;2,25255;50,32053
+5;SOGEA SATOM;9, place de l'Europe;92851;Rueil-Malmaison;92;Hauts-de-Seine;Île-de-France;2,1802832;48,87778
+6;MPI INGREDIENTS;ZI Athélia 4  - 163 Avenue des Tamaris;13600;La Ciotat;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,6062495;43,1758591
+7;DBP;3, rue du Mâconnais ;69800;Saint-Priest;69;Rhône;Auvergne-Rhône-Alpes;4,54685;44,7177
+8;Laboratoire AntiDopage Français;143 avenue Roger SALENGRO ;92290;Châtenay-Malabry;92;Hauts-de-Seine;Île-de-France;2,2775316;48,7670404
+9;PARFAROMES DE FRANCE;101, avenue Notre Dame ;6220;Vallauris;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;7,05859;43,5761001
+10;IMCD France SAS;Immeuble New Corner;93457;La Plaine Saint-Denis;93;Seine-St-Denis;Île-de-France;2,3658756;48,9118584
+11;Becton Dickinson France SAS;11, rue Aristide-Bergès ZI des Iles - BP 4 ;38801;Le Pont-de-Claix;38;Isère;Auvergne-Rhône-Alpes;5,6978136;45,1236837
+12;ETS JOSEPH GAZAN;Zone Industrielle Athélia III 291 voie Atlas ;13600;La Ciotat;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,6062495;43,1758591
+13;CNRS - Laboratoire de Bioimagerie et Pathologies (UMR 7021);CNRS UMR 7213 - Faculté de Pharmacie Université de Strasbourg - 74 route du Rhin ;67401;Illkirch-Graffenstaden;67;Bas-Rhin;Grand Est;7,7116218;48,5298611
+14;IUT Robert Schuman - Département Chimie;Université de Strasbourg Département Chimie 72 Route du Rhin ;67411;Illkirch-Graffenstaden;67;Bas-Rhin;Grand Est;7,7116218;48,5298611
+15;ENS de Lyon;15, parvis René Descartes BP 7000 ;69342;Lyon;69;Rhône;Auvergne-Rhône-Alpes;4,8320114;45,7578137
+16;CNRS - Aix Marseille Université / Laboratoire de PharmacoChimie Radicalaire (UMR  7273);Institut de Chimie Radicalaire - UMR 7273 av. Escadrille Normandie NIEMEN - Case 521 ;13397;Marseille;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,3699525;43,2961743
+17;INOVALYS;Site de Nantes Route de Gachet/La Chantrerie BP 52703 ;44327;Nantes;44;Loire-Atlantique;Pays de la Loire;-1,5541362;47,2186371
+18;Université de Montpellier;163 rue Auguste Broussonnet ;34090;Montpellier;34;Hérault;Occitanie;3,8767337;43,6112422
+19;CNRS (UMR 8182) - ICMMO  Institut de Chimie Moléculaire et des Matériaux d'Orsay;Laboratoire de Synthèse Organique et Méthodologie - Bât 410-420-430 - Université Paris Sud 11 15 rue Georges Clémenceau ;91405;Orsay;91;Essonne;Île-de-France;2,187457;48,699184
+20;CNRS-BioCIS-Université Paris-Saclay  (UMR 8076) ;Faculté de Pharmacie, Université Paris Sud 11 Laboratoire de Pharmacognosie 5, rue Jean-Baptiste Clément ;92296;Châtenay-Malabry;92;Hauts-de-Seine;Île-de-France;2,2775316;48,7670404
+21;CNRS (UPR 3572) I2CT - IBMC, Délégation Alsace;Institut de biologie moléculaire et cellulaire 2 allée Konrad Roentgen ;67084;Strasbourg;67;Bas-Rhin;Grand Est;7,7507127;48,584614
+22;CNRS (UMR 9005) - Sys2diag - ALCEN;Cap Delta 1682 Rue de la Valsière - CS 61003 ;34184;Montpellier;34;Hérault;Occitanie;3,8767337;43,6112422
+23;CNRS - Laboratoire CEMES (UPR 8011), toulouse;BP 4347 29 rue Jeanne Marvig ;31055;Toulouse;31;Haute-Garonne;Occitanie;1,4442469;43,6044622
+24;CNRS (LCC-UPR 8241) - Laboratoire de Chimie de coordination, Toulouse;205, route de Narbonne ;31077;Toulouse;31;Haute-Garonne;Occitanie;1,4442469;43,6044622
+25;CNRS (UMR 8232) IPCM - INSTITUT PARISIEN DE CHIMIE MOLÉCULAIRE;Sorbonne Université CC229, 4 place Jussieu ;75252;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+26;Institut des Sciences Analytiques – UMR 5280;UMR 5280 5, rue de la Doua ;69100;Villeurbanne;69;Rhône;Auvergne-Rhône-Alpes;4,8868454;45,7733573
+27;CNRS - Institut des Biomolécules Max Mousseron (IBMM) UMR5247 , UM, ENSCM;Pôle Chimie Balard Recherche 1919, route de Mende ;34293;Montpellier;34;Hérault;Occitanie;3,8767337;43,6112422
+28;CNRS - Laboratoire des Biomolécules (UMR 7203, Sorbonne Université, ENS);UPMC Tour 23-33, 5ème étage 4 place Jussieu;75005;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+29;Université de Caen - CERMN;UFR des Sciences pharmaceutiques Université de Caen Normandie Bd Becquerel ;14032;Caen;14;Calvados;Normandie;-0,3635615;49,1813403
+30;Université Rennes I;2, Rue du Thabor CS 46510 ;35065;Rennes;35;Ille-et-Vilaine;Bretagne;-1,6800198;48,1113387
+31;Lycée Descartes ;10, rue des Minimes BP 1009 ;37010;Tours;37;Indre-et-Loire;Centre-Val de Loire;0,6889268;47,3900474
+32;Boehringer-ingelheim Animal health France SCS;4, chemin du Calquet;31000;Toulouse;31;Haute-Garonne;Occitanie;1,4442469;43,6044622
+33;CNRS - Laboratoire MOLTECH-Anjou (UMR 6200, Université d'Angers);Faculté des Sciences 2 boulevard Lavoisier ;49045;Angers;49;Maine-et-Loire;Pays de la Loire;-0,5515588;47,4739884
+34;Université de technologie de Compiègne;Centre de Recherche Rue Personne de Roberval ;60200;Compiègne;60;Oise;Hauts-de-France;2,8263171;49,4179497
+35;Université de Perpignan Via Domitia;Service hygiène et sécurité 52, avenue Paul Alduy ;66860;Perpignan;66;Pyrénées-Orientales;Occitanie;2,8953121;42,6985304
+36;Lycée Pierre-Gilles de Gennes-ENCPB;11 rue Pirandello ;75013;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+37;CNRS (UMR 8601) - UNIVERSITÉ de PARIS;Laboratoire de Chimie et Biochimie pharmacologiques et toxicologiques - UMR 8601 45, rue des Saints-Pères ;75006;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+38;CNRS (UMR 6014 COBRA) - UFR des Sciences et Techniques / Université de Rouen-Normandie;Direction UMR 6014 CNRS COBRA ;76821;Mont-Saint-Aignan;76;Seine-Maritime;Normandie;1,0813;49,4679
+39;SIDEN-SIAN Noréade Eau et Assainissement;23 Avenue de la Marne CS 90101 ;59443;Wasquehal;59;Nord;Hauts-de-France;3,1312447;50,6691577
+40;CNRS - Laboratoire MINT, INSERM 1066 (UMR 6021, université d'Angers);IBS-CHU Angers 4, rue Larrey;49933;Angers;49;Maine-et-Loire;Pays de la Loire;-0,5515588;47,4739884
+41;SM EMMA;20 rue des Bobines ;40230;Saint-Vincent-de-Tyrosse;40;Landes;Nouvelle-Aquitaine;-1,3029669;43,6604837
+42;Lycée Polyvalent Théophile ROUSSEL - SAINT-CHELY D'APCHER;15, rue Docteur Yves Dalle;48200;Saint-Chély-d'Apcher;48;Lozère;Occitanie;3,2757824;44,8011363
+43;SYNDICAT VIENNE COMBADE;Mairie de Saint Léonard de Noblat Place du 14 juillet;87400;Saint-Léonard-de-Noblat;87;Haute-Vienne;Nouvelle-Aquitaine;1,4924586;45,8377349
+44;ANGERS LOIRE METROPOLE;83 rue du Mail ;49020;Angers;49;Maine-et-Loire;Pays de la Loire;-0,5515588;47,4739884
+45;Clermont Auvergne Métropole;64-66 avenue de l'Union Soviétique ;63000;Clermont-Ferrand;63;Puy-de-Dôme;Auvergne-Rhône-Alpes;3,0819427;45,7774551
+46;SMEA - Régie Production Eau - Station de Prat ;6 impasse des Richardes ;3380;Teillet-Argenty;3;Allier;Auvergne-Rhône-Alpes;2,519098695;46,26383675
+47;Maison des Enseignants de Provence;268 avenue de la capelette Bâtiment H;13010;Marseille;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,3699525;43,2961743
+48;Université de Toulon - Laboratoire MAPIEM;Université de Toulon BP 20132 - Sea Tech-Bat X;83957;La Garde-Freinet;83;Var;Provence-Alpes-Côte d'Azur;6,4687979;43,3196859
+49;Université d'Orléans - ICOA;rue de Chartres BP 6759;45067;Orléans;45;Loiret;Centre-Val de Loire;1,9086066;47,9027336
+50;TRIGONE - Syndicat Mixte du Gers;Syndicat Mixte de production d'eau potable et de traitement des déchets du Gers Z.I. de Lamothe CS 40509;32021;Auch;32;Gers;Occitanie;0,5850507;43,6463558
+51;CNRS (UMR 8181) - Unité de Catalyse et Chimie du Solide (UCCS) / Lille;UCCS - CCM - CASECO UMR CNRS 8181 Bâtiment C3 - Laboratoire 207;59655;Villeneuve-d'Ascq;59;Nord;Hauts-de-France;3,1314002;50,6193174
+52;ADISSEO FRANCE SAS - Site de Commentry (03);Rue Marcel Lingot;3600;Commentry;3;Allier;Auvergne-Rhône-Alpes;2,74398;46,290103
+53;CNRS - Université de Bordeaux (Inserm U1212 - UMR 5320);Université de Bordeaux UFR des Sciences Pharmaceutiques 146, rue Léo-Saignat;33076;Bordeaux;33;Gironde;Nouvelle-Aquitaine;-0,5800364;44,841225
+54;CNRS - CBM (Centre de Biophysique Moléculaire);rue Charles-Sadron;45071;Orléans;45;Loiret;Centre-Val de Loire;1,9086066;47,9027336
+55;SIVOM Rive GAUCHE DU CHER;Mairie 4 rue du Moulin de Lyon ;3380;Huriel;3;Allier;Auvergne-Rhône-Alpes;2,477798;46,3733261
+56;RESE - EAU 17;131 Cours Genet BP 30551 ;17430;Saintes;17;Charente-Maritime;Nouvelle-Aquitaine;-0,6300671;45,7460663
+57;SIVOM REGION MINIERE;Route de Montluçon;3170;Doyet;3;Allier;Auvergne-Rhône-Alpes;2,79764;46,336
+58;SYNDICAT MIXTE DEPARTEMENTAL D'EQUIPEMENT DES COMMUNES DES LANDES - SYDEC;469 avenue des lacs;40990;Saint-Paul lès Dax;40;Landes;Nouvelle-Aquitaine;-1,0515491;43,7253162
+59;Laboratoire d’addictologie biologique et toxicologie-AMPD PACA, Hôpital de l’ARCHET 2;AMPD PACA Hôpital de l'Archet 2 - 151 route de Saint Antoine de Ginestrière CS 23079 ;6202;Nice;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;7,2683912;43,7009358
+60;CHU de LILLE - Unité Fonctionnelle de Toxicologie / Centre de Biologie Pathologies;Centre de Biologie Pathologie Service de Toxicologie et Génopathies Boulevard du Professeur Jules Leclercq - CS 70001 ;59037;Lille;59;Nord;Hauts-de-France;3,0635282;50,6365654
+61;Essences et Parfums;Parc d'activités de la Sarrée Route de Gourdon;6620;Le Bar-sur-Loup;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,988256;43,7012408
+62;Laboratoire de Pharmacologie Toxicologie - CHU Raymond Poincaré;CHU Raymond POINCARE 104 bd Raymond Poincaré ;92380;Garches;92;Hauts-de-Seine;Île-de-France;2,1853699;48,8437486
+63;Robertet - site de Grasse n°1;37, avenue de SIDI-BRAHIM BP 52100;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+64;ARKEMA - sites de LACQ et GRL;lot 25;64170;Lacq;64;Pyrénées-Atlantiques;Nouvelle-Aquitaine;-0,6200209;43,4127204
+65;LT PIVERT - site de Chartres;11-13 rue Camille Marcille;28000;Chartres;28;Eure-et-Loir;Centre-Val de Loire;1,4881434;48,4438601
+66;EMERAUDE PLANTS;Le Petits Douets;35350;Saint-Méloir-des-Ondes;35;Ille-et-Vilaine;Bretagne;-1,9051339;48,6380887
+67;West Pharmaceutical Services;38 rue Robert Degon ;2170;Le Nouvion-en-Thiérache;2;Aisne;Hauts-de-France;3,7858;50,01805
+68;SARP INDUSTRIES (Usine de Limay);427 Route du Hazay Zone portuaire ;78520;Limay;78;Yvelines;Île-de-France;1,7353686;48,9921015
+69;INTEROR SAS;ZI des Dunes rue des Garennes ;62100;Calais;62;Pas-de-Calais;Hauts-de-France;1,8538446;50,9524769
+70;Cinquieme Sens;4 Avenue du Château ;60113;Monchy-Humières;60;Oise;Hauts-de-France;2,7535492;49,4693731
+71;SIAEP DE LA PUISAYE;17 route de Dampierre BP 2;58310;Saint-Amand-en-Puisaye;58;Nièvre;Bourgogne-Franche-Comté;3,0739885;47,5295325
+72;AIR LIQUIDE REUNION;8, rue Charles Darwin B.P. 393 ;97420;Le Port;974;La Réunion;La Réunion;1,3740316;42,8662832
+73;PRODAROMAT;3, PASSAGE DAMIENS ;60240;Chaumont-en-Vexin;60;Oise;Hauts-de-France;1,8821405;49,2625682
+74;ETHYPHARM;194 Bureaux de la Colline  ;92210;Saint-Cloud;92;Hauts-de-Seine;Île-de-France;2,219344;48,8437412
+75;URD ABI - AgroParisTech Innovation;CEBB - Route de BAZACOURT URD ABI 3 rue des Rouges Terres ;51110;Pomacle;51;Marne;Grand Est;4,1467008;49,3352507
+76;MVO : MATERIEL ET VERRERIE OUVREE   ;4 Parc d'activité Bertel 355, rue Victor Hugo ;76300;Sotteville-lès-Rouen;76;Seine-Maritime;Normandie;1,089746;49,4151549
+77;METAROM France;Avenue de l'étoile du sud Pôle Jules Verne - BP 32 ;80440;Boves;80;Somme;Hauts-de-France;2,3932912;49,8463524
+78;LABORATOIRE RENAUDIN   ;Zone d'activités Errobi ;64250;Itxassou;64;Pyrénées-Atlantiques;Nouvelle-Aquitaine;-1,409074;43,333453
+79;ALM INTERNIONAL;3 bis, Quai aux Fleurs ;75004;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+80;Technologie Servier;25/27 RUE EUGENE VIGNAT ;45000;Orléans;45;Loiret;Centre-Val de Loire;1,9086066;47,9027336
+81;LOUIS VUITTON MALLETIER;2 rue du Pont Neuf ;75001;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+82;EES-SECAUTO;2, rue Louis Lepine BP 40099 - ZI Sud ;13693;Martigues;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,0548176;43,4057279
+83;CHEDDITE France SA;99 route de Lyon BP 112 ;26501;Bourg-lès-Valence;26;Drôme;Auvergne-Rhône-Alpes;4,8953847;44,9528222
+84;ARKEMA FRANCE;420 rue d'Estienne d'Orves ;92705;Colombes;92;Hauts-de-Seine;Île-de-France;2,2543577;48,922788
+85;Sud Aromatiques France;km 3 route de Thuir 2480 avenue Julien PANCHOT ;66000;Perpignan;66;Pyrénées-Orientales;Occitanie;2,8953121;42,6985304
+86;ATELIER DU PARFUMEUR – IFF GRASSE;9 Avenue Joseph Honoré Isnard Parc Industriel Les Bois de Grasse ;6131;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+87;JOSEMARD;14 Parc d'activités du Pilon D6085 ;6460;Saint-Vallier-de-Thiey;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,8478583;43,6987023
+88;CMC MATERIALS UPC SAS;Usine de la Rachée ;91530;Saint-Chéron;91;Essonne;Île-de-France;4,5600716;48,6362731
+89;BIOCHIMEX;Centre Technopolis 14 rue du fonds Pernant ;60200;Compiègne;60;Oise;Hauts-de-France;2,8263171;49,4179497
+90;EXPRESSIONS PARFUMEES SAS;136 Chemin de Saint-Marc Le plan de Grasse ;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+91;TECHNICOFLOR;Parc d'activités de Fontvieille Route des 4 saisons ;13190;Allauch;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,4832687;43,3351381
+92;BCCI;RN rue Aranoa, Villa Aranoa ;64200;Biarritz;64;Pyrénées-Atlantiques;Nouvelle-Aquitaine;-1,552726591;43,47114375
+93;EGNO Chimie;Route Indsutrielle du quai de Radicatel ZAC Port Jérôme II ;76170;Saint-Jean-de-Folleville;76;Seine-Maritime;Normandie;0,5062186;49,523637
+94;QUALICONTROLE;29 rue Paul VAILLANT-COUTURIER ;60110;Méru;60;Oise;Hauts-de-France;2,1355087;49,2361978
+95;PIERRE FABRE MEDICAMENT ;Plantes et Industrie 16 rue Jean Rostand - ZI Le Clergous ;81603;Gaillac;81;Tarn;Occitanie;1,8967943;43,9016766
+96;CENTIPHARM;23 Chemin de la Madeleine ;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+97;SERPOL;2 Chemin du Génie ;69633;Vénissieux;69;Rhône;Auvergne-Rhône-Alpes;4,8855966;45,6977109
+98;PHARMASYNTHESE;57, rue Gravetel ;76320;Saint-Pierre-lès-Elbeuf;76;Seine-Maritime;Normandie;1,0476368;49,2745217
+99;GRASSE CHIMIE'S WORLD;36 route du Plan ;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+100;ARYSTA LIFESCIENCE SAS;BP 80 route d'Artix ;64150;Noguères;64;Pyrénées-Atlantiques;Nouvelle-Aquitaine;-0,5952797;43,3718282
+101;MORAFLOR  ;Z.A.C. du Pilon Lot n° 7 ;6460;Saint-Vallier-de-Thiey;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,8478583;43,6987023
+102;Bostik SA;420 Rue d'Estienne d'Orves ;92700;Colombes;92;Hauts-de-Seine;Île-de-France;2,2543577;48,922788
+103;CSI SUD OUEST;143, chemin de Fenouillet ;31200;Toulouse;31;Haute-Garonne;Occitanie;1,4442469;43,6044622
+104;PARFEX;Parc d'Activités Les Bois de Grasse 51 Avenue Louison Bobet ;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+105;Gaches Chimie Spécialités;8 rue Labouche ZI de Thibaud ;31084;Toulouse;31;Haute-Garonne;Occitanie;1,4442469;43,6044622
+106;CHARBONNEAUX BRABANT;52 rue de la Justice ;51100;Reims;51;Marne;Grand Est;4,031926;49,2577886
+107;PCW (PARFUM COSMETIC WORLD);Aromagrasse 45, Bd Marcel Pagnol ;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+108;NUTRISET;Hameau du Bois Ricard ;76770;Malaunay;76;Seine-Maritime;Normandie;1,0403092;49,5280751
+109;CHIMIE-PLUS Laboratoires;ZA du Pont ;1240;Saint-Paul-de-Varax;1;Ain;Auvergne-Rhône-Alpes;5,1288052;46,0992343
+110;Norchim;33, quai d'Amont ;60340;Saint-Leu-d'Esserent;60;Oise;Hauts-de-France;2,4215332;49,2174377
+111;MEDECINS SANS FRONTIERES LOGISTIQUE;3 rue du Domaine de la Fontaine ;33700;Mérignac;33;Gironde;Nouvelle-Aquitaine;-0,6469022;44,842168
+112;FIRMENICH;Parc industriel les Bois de Grasse BP 92113 ;6131;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+113;AROMATECH SAS;ZA La Festre Sud -route de Grasse BP 5 ;6530;Saint Cézaire sur Siagne;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,7925537;43,6505213
+114;SIGMA ALDRICH CHIMIE;80, rue de Luzais Zone Industrielle de Chesnes Tharabie ;38070;Saint-Quentin-Fallavier;38;Isère;Auvergne-Rhône-Alpes;5,1106322;45,6314982
+115;INDUSTRIES TECHNIQUES SERVICES;52, Rue du Bois des Jarraux ;3270;Saint-Yorre;3;Allier;Auvergne-Rhône-Alpes;3,4614685;46,0658287
+116;SERVILAB;17 Rue Dolmetsch Zone d'activités Commerciales du Ribay Pavillon ;72000;Le Mans;72;Sarthe;Pays de la Loire;0,1967849;48,0073849
+117;DEGRASSE PARFUMEUR;7 bis impasse Rême;6400;Cannes;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;7,0134418;43,5515198
+118;TotalEnergies Fluids;24, cours Michelet ;92800;Puteaux;92;Hauts-de-Seine;Île-de-France;2,2368863;48,8841522
+119;SARP INDUSTRIE AQUITAINE PYRENEES;Boulevard de l'Industrie BASSENS ;33565;Carbon-Blanc;33;Gironde;Nouvelle-Aquitaine;-0,50503;44,8937722
+120;Fabrication Chimique Ardéchoise;3055 Route de Saint Victor ZA de Fontayes ;7410;Saint-Félicien;7;Ardèche;Auvergne-Rhône-Alpes;4,62778;45,0867
+121;ORIL INDUSTRIE - Bolbec (76) - Siège;13 rue Auguste Desgenétais CS 60125 ;76210;Bolbec;76;Seine-Maritime;Normandie;0,4742448;49,5739091
+122;JOSEPH PRODUITS CHIMIQUES;Zone Industrielle de Chalencon I 145, Allée Léon Foucault - BP 90076 ;84272;Vedène;84;Vaucluse;Provence-Alpes-Côte d'Azur;4,9035659;43,9787328
+123;AGENCE iD;ZAC des Bousquets 101 rue de l'Evolution ;83390;Cuers;83;Var;Provence-Alpes-Côte d'Azur;6,072772;43,2372099
+124;JEULIN;rue Jacques Monod Z.I. n°1 Nétreville - B.P. 1900 ;27019;Evreux;27;Eure;Normandie;1,1510164;49,0268903
+125;ADL&PROCHILAB Associés;ZI des 4 Pavillons 33 rue Jean Raymond Guyon ;33310;Lormont;33;Gironde;Nouvelle-Aquitaine;-0,5216683;44,8791708
+126;PRODECHIM   ;191 C, avenue Saint-Exupéry Case 21 ;69675;Bron;69;Rhône;Auvergne-Rhône-Alpes;4,9092352;45,7337532
+127;QUIMDIS;71 rue Anatole France ;92532;Levallois-Perret;92;Hauts-de-Seine;Île-de-France;2,2881683;48,892956
+128;PROSENTOS;3 rue des Corroyes ;78730;Saint-Arnoult-en-Yvelines;78;Yvelines;Île-de-France;1,9350788;48,572604
+129;Lebugle et cie;5 rue Marguerite de Navarre;78540;Vernouillet;78;Yvelines;Île-de-France;1,3650922;48,7166545
+130;Syndicat des Eaux de la Semène;19 Route de Monistrol BP 49;43600;Sainte-Sigolène;43;Haute-Loire;Auvergne-Rhône-Alpes;4,2360263;45,2424978
+131;SFTS;Z.I. Les CHAUX;42450;Sury-le-Comtal;42;Loire;Auvergne-Rhône-Alpes;4,18354;45,5414
+132;HENDRIX GENETICS TURKEYS France;La Bohardière Saint Laurent de la Plaine;49290;Mauges-sur-Loire;49;Maine-et-Loire;Pays de la Loire;-0,946314247;47,3434076
+133;INDUSTEEL France site du Creusot;"6 Rue André Campra Immeuble ""Le Cézanne""";93200;La Plaine Saint-Denis;93;Seine-St-Denis;Île-de-France;2,3658756;48,9118584
+134;Office d’Équipement Hydraulique de Corse (O.E.H.C);Avenue Paul Giacobbi - Montesoro;20600;Bastia;20;Haute-Corse;Corse;9,4512866;42,7008676
+135;Invivogen;5 Rue Jean Rodier ZI de Montaudran;31400;Toulouse;31;Haute-Garonne;Occitanie;1,4442469;43,6044622
+136;Syndicat d’Eau de l’Anjou;12 rue Joseph Fourier;49070;Beaucouzé;49;Maine-et-Loire;Pays de la Loire;-0,636681;47,4763
+137;SEDERMA;Société d'études dermatologiques 29, rue du chemin vert - B.P. 33 ;78610;Le Perray-en-Yvelines;78;Yvelines;Île-de-France;1,8538535;48,6924665
+138;SHEPHERD Mirecourt SAS;275 rue de Lorraine - Juvaincourt BP 47 ;88502;Mirecourt;88;Vosges;Grand Est;6,1312974;48,3005302
+139;PRODASYNTH;"P.I. ""Les Bois de Grasse"" 4 Avenue Joseph Honoré Isnard ";6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+140;CLUZEAU INFO LABO (CIL);33-35 rue Jean-Louis FAURE ;33220;Sainte-Foy-la-Grande;33;Gironde;Nouvelle-Aquitaine;0,214969;44,8416496
+141;BIESTERFELD;4 Boulevard Bellerive CS 10045 ;92566;Rueil-Malmaison;92;Hauts-de-Seine;Île-de-France;2,1802832;48,87778
+142;ERCO;460 avenue de la Quiera ZI de l'Argile - Voie E - Lot 50 ;6370;Mouans-Sartoux;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9703991;43,6203852
+143;BORAX FRANCAIS;89 Route de Bourbourg ;59411;Coudekerque-Branche;59;Nord;Hauts-de-France;2,3894321;51,020878
+144;SORDALAB;15 Avenue des Grenots ;91150;Etampes;91;Essonne;Île-de-France;2,1614464;48,4344621
+145;TEDIS;Parc de l'Atlantique 9, avenue d'Ouessant ;91140;Villebon-sur-Yvette;91;Essonne;Île-de-France;2,2276489;48,7000046
+146;CALDIC FRANCE;18 Place des Nymphéas Le Tropical ;93420;Villepinte;93;Seine-St-Denis;Île-de-France;2,0855714;43,2814917
+147;Roquette Frères;1, Rue de La Haute Loge ;62136;Lestrem;62;Pas-de-Calais;Hauts-de-France;2,6857534;50,6216212
+148;SONODIS;756, Route des Entreprises ;76430;Oudalle;76;Seine-Maritime;Normandie;0,298627;49,5050047
+149;MBDA France;1 avenue Réaumur ;92350;Le Plessis-Robinson;92;Hauts-de-Seine;Île-de-France;2,2619632;48,7811049
+150;A.M.P.E.R.E. INDUSTRIE;5-7, rue de Bretagne Z.A.I. des Béthunes ;95075;Saint-Ouen-l'Aumône;95;Val-D'Oise;Île-de-France;2,1059841;49,044765
+151;DALIC;41 rue des Eaux Z.I. de Plagué BP 90139 ;35501;Vitré;35;Ille-et-Vilaine;Bretagne;-1,214331;48,1244503
+152;EURISOTOP;Groupe CEA - CE SACLAY Bât 547 extension ;91191;Gif-sur-Yvette;91;Essonne;Île-de-France;2,134529;48,7018823
+153;ACROM;Zone Industrielle des Grands Bois Rue de l'Europe Rond Point de St Léger Sous Cholet ;49280;La Séguinière;49;Maine-et-Loire;Pays de la Loire;-0,9399268;47,0636081
+154;INNOV'ORGA;Faculté des Sciences - URCA Moulin de la Housse - Bât 18 - BP1039;51687;Reims;51;Marne;Grand Est;4,031926;49,2577886
+155;GUERBET;705 rue Denis Papin;56607;Lanester;56;Morbihan;Bretagne;-3,3444489;47,7639726
+156;CHR TIMONE;264 rue Saint-Pierre;13005;Marseille;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,3699525;43,2961743
+157;AQUASYSS DOL FORAGE;ZA les Rolandières;35120;Dol-de-Bretagne;35;Ille-et-Vilaine;Bretagne;-1,754257;48,5498295
+158;CNRS (UMR 7104) - CERBM-GIE, Institut de Génétique et Biologie Moléculaire et Cellulaire (IGBMC);1, rue Laurent FRIES Parc d'Innovation C.U. de Strasbourg - BP 10142 ;67404;Illkirch-Graffenstaden;67;Bas-Rhin;Grand Est;7,7116218;48,5298611
+159;LABORATOIRE EXCELL;25 rue Aristide Bergès ;33270;Floirac;33;Gironde;Nouvelle-Aquitaine;-0,520823;44,8327
+160;ATELIER DE PRODUCTIONS AROMATIQUES;ZA de la Festre sud Route de Grasse ;6530;Saint-Cézaire-sur-Siagne;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,7925537;43,6505213
+161;PROVA  - site de MONTREUIL;46, rue Colmet-Lépinay;93512;Montreuil;93;Seine-St-Denis;Île-de-France;1,7631125;50,4638918
+162;ALL'CHEM;Rue Marceau B.P. 577 ;3108;Montluçon;3;Allier;Auvergne-Rhône-Alpes;2,6073963;46,3400296
+163;Chemlog;7 route de Bueil;27780;Garennes-sur-Eure;27;Eure;Normandie;1,4368217;48,9109977
+164;SARL CERATI;91 Rue de Charnay ;79400;Nanteuil;79;Deux-Sèvres;Nouvelle-Aquitaine;-0,1737442;46,4118966
+165;L’Oréal Usine d’Aulnay SOPROREAL;137 rue Jacques Duclos ;93600;Aulnay-sous-Bois;93;Seine-St-Denis;Île-de-France;2,499789;48,934231
+166;THALES DMS FRANCE;2, avenue Gay-Lussac ;78990;Elancourt;78;Yvelines;Île-de-France;1,949352;48,7681182
+167;Atlantique Diffusion Services;33 rue des Guillées ;79180;Chauray;79;Deux-Sèvres;Nouvelle-Aquitaine;-0,3745955;46,3606879
+168;Laboratoire EUROSTEME;6, rue Calixte Plotton ;42000;Saint-Etienne;42;Loire;Auvergne-Rhône-Alpes;4,3873058;45,4401467
+169;PALCHEM;550, rue de la Gendarmerie ;62150;Houdain;62;Pas-de-Calais;Hauts-de-France;2,5378571;50,4524327
+170;Flamel Aromatic SAS ;Zone industrielle les Noyers BP 45 ;36150;Vatan;36;Indre;Centre-Val de Loire;1,809034;47,0714569
+171;RENE LAURENT;107 avenue Franklin Roosevelt BP N° 40083 ;6113;Le Cannet;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;7,0191865;43,5761076
+172;PLANETPHARMA;ZAC du grand Launay Avenue Victor Grignard ;76120;Le Grand-Quevilly;76;Seine-Maritime;Normandie;1,0507926;49,4068986
+173;NOVAPEX - Etablissement de Roussillon;rue Gaston Monmousseau;38154;Roussillon;38;Isère;Auvergne-Rhône-Alpes;4,8124049;45,3735991
+174;Onet Technologies TI;36 Boulevard de l'Océan ;13258;Marseille;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,3699525;43,2961743
+175;SIEGFRIED Saint-Vulbas SAS ;Parc industriel de la Plaine de l'Ain Allée de la Luye ;1150;Saint-Vulbas;1;Ain;Auvergne-Rhône-Alpes;5,28959;45,8306
+176;SOYONS CHIMIE BIOTECHNOLOGIE;RN 86 ;7130;Soyons;7;Ardèche;Auvergne-Rhône-Alpes;4,8506753;44,8885322
+177;PRODHYNET SA;11 Avenue des Châtelets Z.I des Châtelets ;22440;Ploufragan;22;Côtes d'Armor;Bretagne;-2,7933133;48,4893432
+178;CLARIANT SE, SUCCURSALE FRANCE;21-23 rue du Petit Albi;95800;Cergy;95;Val-D'Oise;Île-de-France;2,0388736;49,0527528
+179;SOCIETE DE TRANSACTIONS ET PROMOTIONS EUROPEENNES  (STPE);5, Allée Prieuré ;77400;Pomponne;77;Seine-et-Marne;Île-de-France;2,6913606;48,8816121
+180;CARLO ERBA Reagents;Parc d'Affaires des Portes Chaussée du Vexin B.P. 616 ;27106;Val-de-Reuil;27;Eure;Normandie;1,2128992;49,2716839
+181;BIO-TECHNOFIX;5 rue Denis Papin Z.A .de la Mare du Milieu - Lot C ;91630;Guibeville;91;Essonne;Île-de-France;2,26404;48,5711221
+182;Midas Pharma France SAS;25 rue Ginoux;75015;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+183;CPE LYON;43, boulevard du 11 novembre 1918 Bât Hubert CURIEN BP 82077 ;69616;Villeurbanne;69;Rhône;Auvergne-Rhône-Alpes;4,8868454;45,7733573
+184;SOCIETE NOUVELLE M L W;P.A. des Petits Carreaux 4, avenue des Coquelicots ;94385;Bonneuil-sur-Marne;94;Val-de-Marne;Île-de-France;2,4869009;48,7737116
+185;Eurofins Pharma Quality Control;9 avenue de Laponie Les Ulis ;91978;Courtaboeuf;91;Essonne;Île-de-France;2,2083217;48,6835181
+186;CARE;Port 4998 - Route de la Plaine ;76700;Rogerville;76;Seine-Maritime;Normandie;0,2631791;49,5032616
+187;DELPHARM BRETIGNY;Usine du Petit Paris ;91731;Brétigny-sur-Orge;91;Essonne;Île-de-France;2,3075288;48,6099887
+188;Fisher Scientific SDS;Boulevard Sébastien Brant Parc d'innovation BP 50111 ;67403;Illkirch-Graffenstaden;67;Bas-Rhin;Grand Est;7,7116218;48,5298611
+189;COOPERATION PHARMACEUTIQUE FRANCAISE (COOPER);Technopole de Château Gombert Rue Max Planck ;13013;Marseille;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,3699525;43,2961743
+190;IPRA France;Parc d'activités de l'Argile ;6370;Mouans-Sartoux;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9703991;43,6203852
+191;SALVECO;Avenue Pierre MENDES-FRANCE ZA Hellieule 4 ;88100;Saint-Dié;88;Vosges;Grand Est;6,9477708;48,2873153
+192;LE PAPIER D’ARMENIE;6, rue Morel ;92120;Montrouge;92;Hauts-de-Seine;Île-de-France;2,3194375;48,8188544
+193;C2M TECHNOLOGY;ZI Ste Agathe Impasse Paul Langevin - BP 50089 ;57290;Fameck;57;Moselle;Grand Est;6,1041352;49,3043497
+194;ASSERDIS (EURL);39 bis rue du Moulin Rouge ;10150;Charmont-sous-Barbuise;10;Aube;Grand Est;4,1718077;48,4104072
+195;CPL AROMAS FRANCE;33 Rue Benoît Malon ;92150;Suresnes;92;Hauts-de-Seine;Île-de-France;2,2255727;48,8709053
+196;HYDRACHIM;Z.A. le Piquet Etrelles ;35370;Etrelles;35;Ille-et-Vilaine;Bretagne;-1,1938644;48,0601694
+197;SYNTHRON PRODEV;6 rue Barbès ;92305;Levallois-Perret;92;Hauts-de-Seine;Île-de-France;2,2881683;48,892956
+198;TEREOS STARCH & SWEETENERS EUROPE;23 rue Henri Roulot ;51320;Haussimont;51;Marne;Grand Est;4,1678699;48,7479347
+199;QUARON - Arnas;235 RUE GRANGE MORIN;69400;Arnas;69;Rhône;Auvergne-Rhône-Alpes;4,7071167;46,0235247
+200;HAUPT PHARMA LIVRON;1, rue Comte de Sinard BP 1 ;26250;Livron-sur-Drôme;26;Drôme;Auvergne-Rhône-Alpes;4,845507;44,7726501
+201;Biogénie Eurpoe SAS;Ecosite de Vert-le-Grand Chemin de Braseux ;91540;Echarcon;91;Essonne;Île-de-France;2,4113865;48,5723372
+202;suez eau France;16 Place de l'Iris Tour CB21 ;92040;Paris-la-Défense;92;Hauts-de-Seine;Île-de-France;2,4360689;48,8425689
+203;E.P.DIS;15 rue Etienne Dolet LBC Bât 2 ;76140;Le Petit-Quevilly;76;Seine-Maritime;Normandie;1,06208;49,4238
+204;Zach system;Z.I. La Croix Cadeau B.P 79 ;49242;Avrillé;49;Maine-et-Loire;Pays de la Loire;-0,5956539;47,5045657
+205;LUSTINER FRANCE;3, rue de Verdun Bât D - ZA BUROCAMPUS ;78590;Noisy-le-Roi;78;Yvelines;Île-de-France;2,0645422;48,8439572
+206;SYNTHEXIM;1, quai d'Amérique CS 40154 ;62100;Calais;62;Pas-de-Calais;Hauts-de-France;1,8538446;50,9524769
+207;PolyPeptide Laboratories France SAS;7 rue de Boulogne ;67100;Strasbourg;67;Bas-Rhin;Grand Est;7,7507127;48,584614
+208;MEDICAL EXPORT (MEX);ZA des GRANDS CHAMPS 8, rue ZA des GRANDS CHAMPS ;22120;Hillion;22;Côtes d'Armor;Bretagne;-2,6671457;48,5145266
+209;SAFRAN AIRCRAFT ENGINES - Site Evry-Corbeil;2 Boulevard Du Gal Martial Valin ;75015;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+210;PAYAN BERTRAND;28, avenue Jean XXIII BP 61057 ;6131;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+211;APERAM ALLOYS IMPHY;Wire Département BP 1;58160;Imphy;58;Nièvre;Bourgogne-Franche-Comté;3,2627526;46,9281117
+212;ARGEVILLE SAS;Domaine d'Argeville BP 1202 ;6254;Mougins;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9963543;43,6008898
+213;V. MANE FILS;620 Route de GRASSE ;6620;Le Bar-sur-Loup;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,988256;43,7012408
+214;SYMRISE;13/17, rue Mozart ;92110;Clichy;92;Hauts-de-Seine;Île-de-France;2,30551;48,9026
+215;BERNARDI S.A.S;Avenue Michel Chevalier Parc Industriel des Bois de Grasse ;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+216;R. Romani-Société Française d’Aromatiques (S.F.A. ROMANI);Parc d'activités de la Festre sud Route de Grasse ;6530;Saint-Cézaire-sur-Siagne;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,7925537;43,6505213
+217;LABORATOIRE ROSIER DAVENNE;Domaine Saint Perret 789 Avenue Sainte Catherine;84140;Montfavet;84;Vaucluse;Provence-Alpes-Côte d'Azur;4,873943504;43,9326281
+218;NACTIS FLAVOURS - Bondoufle 91;34/36 rue Gutenberg ZI La Marinière ;91070;Bondoufle;91;Essonne;Île-de-France;2,3805119;48,6137157
+219;NACTIS FLAVOURS - Yssingeaux 43;ZA La Guide BP n° 8 ;43200;Yssingeaux;43;Haute-Loire;Auvergne-Rhône-Alpes;4,1244363;45,1435556
+220;CORDEN PHARMA CHENOVE;47, rue de Longvic BP 50 ;21301;Chenôve;21;Côte-d'Or;Bourgogne-Franche-Comté;5,00308;47,2932
+221;VWR INTERNATIONAL;Immeuble Estréo 1-3 rue d'Aurion ;93114;Rosny-sous-Bois;93;Seine-St-Denis;Île-de-France;2,4875193;48,8716626
+222;Société des Eaux de Volvic;USINE DU CHANCET;63530;Volvic;63;Puy-de-Dôme;Auvergne-Rhône-Alpes;3,0375701;45,872542
+223;EXPRESSIONS AROMATIQUES;Zone industrielle de l'Argile 460/112 A Avenue de la Quiéra ;6370;Mouans-Sartoux;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9703991;43,6203852
+224;PFMP;45, place Abel Gance;92654;Boulogne-Billancourt;92;Hauts-de-Seine;Île-de-France;2,240206;48,8356649
+225;Eurofins Analytics France;9, Rue Pierre-Adolphe BOBIERRE BP 42301 ;44323;Nantes;44;Loire-Atlantique;Pays de la Loire;-1,5541362;47,2186371
+226;SOCIETE GRASSOISE DE PARFUMERIE;12 boulevard Pasteur;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+227;PHARMAPHYSIC;Immeuble Le Ronsard 108, rue du Lt Petit Leroy ;94669;Chevilly-Larue;94;Val-de-Marne;Île-de-France;2,3469255;48,7714153
+228;GIMOPHARM;Parc d'activités NATIVELLE 1 chemin de Saulxier ;91160;Longjumeau;91;Essonne;Île-de-France;2,2953297;48,6943793
+229;SANOFI ARAMON ;Route d'Avignon ;30390;Aramon;30;Gard;Occitanie;4,6810542;43,8908652
+230;TotalEnergies Petrochemicals France;2 Place Jean Millier La Défense 6 ;92400;Courbevoie;92;Hauts-de-Seine;Île-de-France;2,2561602;48,8953328
+231;AROMATICA;Parc d'activités de la Sarrée Route de Gourdon ;6620;Le Bar sur Loup;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,988256;43,7012408
+232;SAVETIS;10 rue du Jardin ;22100;Quévert;22;Côtes d'Armor;Bretagne;-2,08416;48,4628
+233;TRADALLIANCE SAS;31 rue Morel ;92110;Clichy;92;Hauts-de-Seine;Île-de-France;2,30551;48,9026
+234;LGC STANDARDS;6, rue Alfred Kastler BP 83076 ;67123;Molsheim;67;Bas-Rhin;Grand Est;7,4924679;48,5419351
+235;PHARMATIS;Zone d'Activité Est n°1 BP 20 ;60190;Estrées-Saint-Denis;60;Oise;Hauts-de-France;2,6440507;49,4266493
+236;FABSTER ;5, rue des Moissons ;91670;Angervilliers;91;Essonne;Île-de-France;2,06433;48,59263
+237;M2i Salin;25 Rue de Clichy ;75009;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+238;CARIF SAS;Zone d'Activités La Violette;31241;L'Union;31;Haute-Garonne;Occitanie;1,4846885;43,6501518
+239;Aromalyse;3 Rue des Ciseaux ;21000;Quetigny;21;Côte-d'Or;Bourgogne-Franche-Comté;5,1162694;47,3125861
+240;Laboratoires URGO;42 rue Longvic - BP 157 ;21304;Chenôve;21;Côte-d'Or;Bourgogne-Franche-Comté;5,00308;47,2932
+241;GALIMARD LABORATOIRE;73, route de Cannes Le Plan de Grasse - BP 42090 ;6131;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+242;EUSA COLORS;415 chemin des Iscles ;13160;Châteaurenard;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;4,85568;43,8820448
+243;BLEU OCEANE;Route de la Roche ;85230;Beauvoir-sur-Mer;85;Vendée;Pays de la Loire;-2,0413971;46,9169461
+244;Eaux Minérales Naturelles de Quézac;5 avenue des Fontaines;64680;Ogeu-les-Bains;64;Pyrénées-Atlantiques;Nouvelle-Aquitaine;-0,5040177;43,1465759
+245;Laboratoire AJC Pharma   ;18, rue Troyon ;75017;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+246;Julie C. fortier;44 rue Alphonse Guérin ;35000;Rennes;35;Ille-et-Vilaine;Bretagne;-1,6800198;48,1113387
+247;Cenexi Fontenay-sous-Bois;52, rue Marcel et Jacques Gaucher ;94120;Fontenay-sous-Bois;94;Val-de-Marne;Île-de-France;2,4749347;48,8490721
+248;COULEUR STONE;54, rue Paillard Ducléré BP 40002;72380;Montbizot;72;Sarthe;Pays de la Loire;0,1821652;48,1440706
+249;site 2 : Paris;25 rue Jacques Louvel Teissier;75010;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+250;FEELS;12 chemin du Moulin de Brun;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+251;SOCIETE DES EAUX DE SOURCES DE PAIMPONT;2 Allée du Grand Fouché ;35380;Paimpont;35;Ille-et-Vilaine;Bretagne;-2,1735324;48,0193594
+252;Polyprocess;Parc d'Activités des Cantines 303 allée des Cantines ;33127;Saint-Jean-d'Illac;33;Gironde;Nouvelle-Aquitaine;-0,7815257;44,8101856
+253;COVESTRO Elastomers SAS;46 Avenue des Allobroges ;26100;Romans-sur-Isère;26;Drôme;Auvergne-Rhône-Alpes;5,0528681;45,0458886
+254;MD FRAGRANCES;1514 avenue de la Plaine ;6250;Mougins;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9963543;43,6008898
+255;PERRET RHONE ALPES - site de CHANAS;9011 route de Marseille;38150;Chanas;38;Isère;Auvergne-Rhône-Alpes;4,8182954;45,3182433
+256;SAFRAM FRANCE - Siège social;19 chemin des Muriers;69740;Genas;69;Rhône;Auvergne-Rhône-Alpes;4,9965605;45,7330585
+257;DIFFUSIONS AROMATIQUES ;Parc d'activité de la Festre Sud 558 Allée des Parfums -Route de Grasse ;6530;Saint-Cézaire-sur-Siagne;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,7925537;43,6505213
+258;DEGREMONT France Assainissement;183, Avenue du 18 juin 1940 ;92508;Rueil-Malmaison;92;Hauts-de-Seine;Île-de-France;2,1802832;48,87778
+259;NovAliX Illkirch;BioParc, 850 bld Sébastien Brant BP 30170  ;67405;Illkirch-Graffenstaden;67;Bas-Rhin;Grand Est;7,7116218;48,5298611
+260;LABORATOIRE AGUETTANT - Lyon (69);1, rue Alexander Fleming ;69007;Lyon;69;Rhône;Auvergne-Rhône-Alpes;4,8320114;45,7578137
+261;MONT BLANC SAS;2 rue du capitaine Rex Combs Chef du Pont ;50480;Sainte-Mère-Eglise;50;Manche;Normandie;-1,326824781;49,4117704
+262;COULEURS D’AROMES;24, allée Paul Decauville Z.I des Auréats ;26000;Valence;26;Drôme;Auvergne-Rhône-Alpes;4,8920811;44,9332277
+263;EUROVANILLE;Route de Maresquel ;62870;Gouy-Saint-André;62;Pas-de-Calais;Hauts-de-France;1,9003344;50,3736056
+264;RAL DIAGNOSTICS;Site Montesquieu Bordeaux Technopolis ;33650;Martillac;33;Gironde;Nouvelle-Aquitaine;-0,5422302;44,7141704
+265;NATURAMOLE;Z.A. du Villaret ;38350;Susville;38;Isère;Auvergne-Rhône-Alpes;5,7814435;44,9180779
+266;ChemTox;3, rue Grüninger Parc d'Innovation ;67400;Illkirch-Graffenstaden;67;Bas-Rhin;Grand Est;7,7116218;48,5298611
+267;Safic Alcan;Tour Pacific 13, cours Valmy ;92800;Puteaux;92;Hauts-de-Seine;Île-de-France;2,2368863;48,8841522
+268;ALTICHEM;ZAI des Béthunes 5-7 rue de Bretagne ;95310;Saint-Ouen-l'Aumône;95;Val-D'Oise;Île-de-France;2,1059841;49,044765
+269;SELECTAROME;Parc d'Activités AromaGrasse 45 bd Marcel Pagnol ;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+270;BRENNTAG EXPORT SARL             ;21 boulevard de l'Europe ;13127;Caen;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;-0,3635615;49,1813403
+271;DIETAGRO;20, route de Laval - AZE ;53200;Château-Gontier;53;Mayenne;Pays de la Loire;-0,7066665;47,8263058
+272;CREANOVA FLAVORS;8 rue de Belle Ile ;35760;Saint-Grégoire;35;Ille-et-Vilaine;Bretagne;-1,685398;48,1524129
+273;SOURIAU (EATON);9 rue de la Porte de Buc;78000;Versailles;78;Yvelines;Île-de-France;2,1266886;48,8035403
+274;CIRON SA;Usine du moulin de Pernaud ;33720;Barsac;33;Gironde;Nouvelle-Aquitaine;-0,323435;44,6043291
+275;Laboratoire VERBIESE;Produits Chimiques et Matériels de Laboratoire ZA des Petits Pacaux ;59660;Merville;59;Nord;Hauts-de-France;2,6387499;50,6436584
+276;CHANEL PARFUMS BEAUTE;135 avenue Charles de Gaulle ;92521;Neuilly-sur-Seine;92;Hauts-de-Seine;Île-de-France;2,2695658;48,884683
+277;Laboratoire Toxlab;7 rue Jacques Cartier ;75018;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+278;Johnson and Johnson Santé Beauté France (JJSBF);1 rue Camille DESMOULINS ;92130;Issy-les-Moulineaux;92;Hauts-de-Seine;Île-de-France;2,273457;48,8250508
+279;VERSIONS ORIGINALES AROMATIQUES;9, ZAC du Pilon ;6460;Saint-Vallier-de-Thiey;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,8478583;43,6987023
+280;WEYLCHEM;Rue du Flottage, BP 1 ;60350;Trosly-Breuil;60;Oise;Hauts-de-France;2,9882594;49,4011322
+281;VECT HORUS;Faculté de Médecine Secteur Nord CS80011 51, boulevard Pierre Dramard ;13344;Marseille;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,3699525;43,2961743
+282;DELPHARM LILLE;Parc D'activités Roubaix-Est 22 Rue de Toufflers - CS 50070 ;59452;Lys-lez-Lannoy;59;Nord;Hauts-de-France;3,21621;50,6713
+283;ADOCIA;115 Avenue Lacassagne ;69003;Lyon;69;Rhône;Auvergne-Rhône-Alpes;4,8320114;45,7578137
+284;PHYTOCONTROL;180 Rue Philippe Maupas ;30035;Nîmes;30;Gard;Occitanie;4,3600687;43,8374249
+285;LABODIFF;10, rue du Luxembourg ;69330;Meyzieu;69;Rhône;Auvergne-Rhône-Alpes;5,0044767;45,7764637
+286;ALL SENS SARL;109, rue de la Gare ;67130;Muhlbach-sur-Bruche;67;Bas-Rhin;Grand Est;7,2986623;48,5168488
+287;CURIA France SAS;ZI de Laville ;47240;Bon-Encontre;47;Lot-et-Garonne;Nouvelle-Aquitaine;0,6683646;44,1861695
+288;Setup Performance SAS;10, route du Chaffard ;38290;Frontonas;38;Isère;Auvergne-Rhône-Alpes;5,18503;45,6475
+289;HOLODIAG SARL;1 voie de l'Innovation Pharmaparc II ;27100;Val-de-Reuil;27;Eure;Normandie;1,2128992;49,2716839
+290;AZELIS France;8-14 avenue de l'Arche ;92400;Courbevoie;92;Hauts-de-Seine;Île-de-France;2,2561602;48,8953328
+291;CERP BRETAGNE ATLANTIQUE;ZI Rue Chaptal CS 50117 ;22001;Saint-Brieuc;22;Côtes d'Armor;Bretagne;-2,7603283;48,5141134
+292;LAREBRON SAS;76, route du Rhin ;67400;Illkirch-Graffenstaden;67;Bas-Rhin;Grand Est;7,7116218;48,5298611
+293;ANALYTIC LAB ;360 avenue des Compagnons ;34170;Castelnau-le-Lez;34;Hérault;Occitanie;3,9133311;43,6393171
+294;FARMACLAIR;440 avenue du Général de Gaulle ;14200;Hérouville-Saint-Clair;14;Calvados;Normandie;-0,3353513;49,2031097
+295;NOVAKITS;40 Boulevard Jean Ingres ;44100;Nantes;44;Loire-Atlantique;Pays de la Loire;-1,5541362;47,2186371
+296;DELPHARM Reims;10 rue Colonel Charbonneaux ;51100;Reims;51;Marne;Grand Est;4,031926;49,2577886
+297;Laboratoires PHODE;Z.I. Albipôle - La Martelle ;81150;Terssac;81;Tarn;Occitanie;2,07457;43,9284
+298;BONTOUX;Le Clot ;26170;Saint-Auban-sur-l'Ouvèze;26;Drôme;Auvergne-Rhône-Alpes;5,4167697;44,2884521
+299;SCIENCETHIC;361, rue ClémentADER - Bât. A Le Long Buisson ;27000;Evreux;27;Eure;Normandie;1,1510164;49,0268903
+300;SOFRASER MAINTENANCE;15, rue Nobel ZI ;45700;Villemandeur;45;Loiret;Centre-Val de Loire;2,70819;47,9838
+301;UNITHER LIQUID MANUFACTURING;1-3 allée de la NESTE Z.I. En Sigal ;31770;Colomiers;31;Haute-Garonne;Occitanie;1,3282149;43,6121001
+302;MARKEM IMAJE SAS;16, rue Brillat Savarin ;26300;Châteauneuf-sur-Isère;26;Drôme;Auvergne-Rhône-Alpes;4,9391394;45,0148392
+303;AROMANCE;Avenue de la Quiéra - Voie E lot 48 PA de l'Argile ;6370;Mouans-Sartoux;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9703991;43,6203852
+304;A2PH;Parc d'entreprises La Radio Route de Paris ;28109;Dreux;28;Eure-et-Loir;Centre-Val de Loire;1,3684254;48,7358807
+305;NOSOPHARM - Site de Nîmes (30);110 allée Charles Babbage - Espace Innovation 2 Parc Scientifique Georges BESSE ;30000;Nîmes;30;Gard;Occitanie;4,3600687;43,8374249
+306;LABBOX FRANCE EURL;45 rue de Villeneuve Parc SILIC - Immeuble Panama ;94573;Rungis;94;Val-de-Marne;Île-de-France;2,3472665;48,7484048
+307;MULTI-EXPORT;Château Rouge Wood Parc Bâtiment C-D 274 ter/3 avenue de la Marne ;59700;Marcq-en-Baroeul;59;Nord;Hauts-de-France;3,1043032;50,6767018
+308;GALAPAGOS SASU;102, Avenue Gaston Roussel;93230;Romainville;93;Seine-St-Denis;Île-de-France;2,4358326;48,8852958
+309;PIERRON – ASCO & CELDA;62 rue de Siltzheim ;57200;Rémelfing;57;Moselle;Grand Est;7,0925786;49,0919301
+310;MEDILIPS (SARL);163 avenue des Oulivarello Z.A. Gandonne ;13300;Salon-de-Provence;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,0980225;43,6405237
+311;Orrion Chemicals Orgaform;ZI Le Pressoir Vert ;45400;Semoy;45;Loiret;Centre-Val de Loire;1,9494742;47,9337171
+312;Méditerrannée Parfums & Arômes;13 Rue de Limoges ;78000;Versailles;78;Yvelines;Île-de-France;2,1266886;48,8035403
+313;Ureka Pharma SAS;2, Rue du Rhône ;68100;Mulhouse;68;Haut-Rhin;Grand Est;7,3389937;47,7467233
+314;BIOSOLVE CHIMIE; 20, rue Roger Husson ;57260;Dieuze;57;Moselle;Grand Est;6,7179948;48,8104847
+315;BIOCHEM CHEMOPHARMA FRANCE;82 Avenue du 85ème de Ligne ;58200;Cosne-Cours-sur-Loire;58;Nièvre;Bourgogne-Franche-Comté;2,9273937;47,4115613
+316;A2S;295 avenue de Boulac ;33127;Saint-Jean-d'Illac;33;Gironde;Nouvelle-Aquitaine;-0,7815257;44,8101856
+317;Novacyl;21 chemin de la sauvegarde 21 Ecully Parc - CS 33167 ;69134;Ecully;69;Rhône;Auvergne-Rhône-Alpes;4,7785644;45,7754498
+318;Kerry Flavours France;Zone Industrielle du Plan de Grasse BP 82067 ;6131;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+319;NEO PARFUMS S.A.S.;249, route de Pégomas ;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+320;ETABLISSEMENTS BEAUSEIGNEUR;6, rue André VIELLARD ;90140;Froidefontaine;90;Territoire de Belfort;Bourgogne-Franche-Comté;6,9505861;47,5650022
+321;DELPHARM GAILLARD;33 rue de l'Industrie ;74240;Gaillard;74;Haute-Savoie;Auvergne-Rhône-Alpes;6,211169;46,1838437
+322;CHEMETALL SAS - Soissons 02;8 Avenue des Louvresses ;92230;Gennevilliers;92;Hauts-de-Seine;Île-de-France;2,2940122;48,9254221
+323;MILLIPORE;39 route de la Hardt;67120;Molsheim;67;Bas-Rhin;Grand Est;7,4924679;48,5419351
+324;GAZECHIM;15 rue Henri Brisson BP 405 ;34504;Béziers;34;Hérault;Occitanie;3,2131307;43,3426562
+325;HB Fuller Adhesives France (Surbourg);56, rue du général De Gaulle CS 10008 ;67250;Surbourg;67;Bas-Rhin;Grand Est;7,8497513;48,9090322
+326;PPG INDUSTRIES FRANCE ;3 ZA E les Dix Muids BP 89 ;59770;Marly;59;Nord;Hauts-de-France;3,5435909;50,3500747
+327;Accords et Parfums;1650 avenue de Saint-Vallier;6530;Spéracèdes;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,8590577;43,6492014
+328;BAYER SAS;16 rue Jean-Marie Leclair CP 90106 ;69266;Lyon;69;Rhône;Auvergne-Rhône-Alpes;4,8320114;45,7578137
+329;GIVAUDAN FRANCE ;55 rue de la Voie des Bans ;95100;Argenteuil;95;Val-D'Oise;Île-de-France;2,2481797;48,9479069
+330;BIOCODEX;7 avenue Gallieni ;94250;Gentilly;94;Val-de-Marne;Île-de-France;2,3483549;48,8153656
+331;Univar Solutions;Tour Cityscope 3 rue Franklin ;93108;Montreuil;93;Seine-St-Denis;Île-de-France;1,7631125;50,4638918
+332;BWT France;103 rue Charles Michels ;93200;Saint-Denis;93;Seine-St-Denis;Île-de-France;2,3580232;48,935773
+333;FIRMENICH;41/43 rue de Villiers ;92523;Neuilly-sur-Seine;92;Hauts-de-Seine;Île-de-France;2,2695658;48,884683
+334;VEOLIA-CGE;21 rue de la Boétie ;75008;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+335;Tebu-bio;39, rue de Houdan ;78160;Le Perray-en-Yvelines;78;Yvelines;Île-de-France;1,8538535;48,6924665
+336;CFSP - COMPAGNIE FERMIERE DE SERVICES PUBLICS;9 rue des Fresnes ZAC de la Pointe ;72190;Sargé-lès-le-Mans;72;Sarthe;Pays de la Loire;0,2402009;48,0339235
+337;Continental Pharmaceutique;ZAC du Grand Launay 8, av. Paul Delorme ;76120;Le Grand-Quevilly;76;Seine-Maritime;Normandie;1,0507926;49,4068986
+338;VELAY SCOP;77 rue René Descartes Z.A. Laprade ;43700;Blavozy;43;Haute-Loire;Auvergne-Rhône-Alpes;3,9806286;45,0571147
+339;SYNDICAT DES EAUX DE BULGNEVILLE;BP n°8;88140;Bulgnéville;88;Vosges;Grand Est;5,8350934;48,2078011
+340;H.REYNAUD et FILS;La Cheminade ;26570;Montbrun-les-Bains;26;Drôme;Auvergne-Rhône-Alpes;5,4413098;44,1751941
+341;PCAS;21 chemin de la Sauvegarde ;69130;Ecully;69;Rhône;Auvergne-Rhône-Alpes;4,7785644;45,7754498
+342;PARFUMS PLUS;Parc d'activité de la Sarrée Route de Gourdon;6620;Le Bar-sur-Loup;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,988256;43,7012408
+343;FONTAROME;66 avenue du Château;95310;Saint-Ouen-l'Aumône;95;Val-D'Oise;Île-de-France;2,1059841;49,044765
+344;PALLIDA;40, rue de Seine;75006;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+345;Orgapharm;rue du Moulin de la Canne;45300;Pithiviers;45;Loiret;Centre-Val de Loire;2,2544871;48,1738051
+346;RHODIA OPERATIONS (Usine de Saint-Fons Spécialités);25 rue de Clichy ;75009;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+347;L’OREAL;14, rue Royale ;75008;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+348;OXELTIS;1682 rue de la Valsière Cap Gamma;34790;Grabels;34;Hérault;Occitanie;3,7964657;43,6473888
+349;PROTECNO;Rue Charles Jourde ZI de Kergonan ;29200;Brest;29;Finistère;Bretagne;-4,4860088;48,3905283
+350;APTAR STELMI;ZI du Mesnil ;50400;Granville;50;Manche;Normandie;-1,5959213;48,8376284
+351;PROVENCALE SA;29, Avenue Frédéric Mistral CS 40097 ;83175;Brignoles;83;Var;Provence-Alpes-Côte d'Azur;6,0616452;43,4064401
+352;Biomerieux SA – Site de La Balme Les Grottes;3, route de Port Michaud ;38390;La Balme-les-Grottes;38;Isère;Auvergne-Rhône-Alpes;5,3368401;45,8521927
+353;GRANDES DISTILLERIES PEUREUX;43 avenue Claude PEUREUX ;70220;Fougerolles;70;Haute-Saône;Bourgogne-Franche-Comté;6,416006243;47,902459
+354;Vetoquinol;MAGNY VERNOIS - BP 189 ;70204;Lure;70;Haute-Saône;Bourgogne-Franche-Comté;6,4946806;47,6863376
+355;OERLIKON BALZERS France;Parc d'activités des Trois Noyers 16 avenue James de Rothschild;77164;Ferrières-en-Brie;77;Seine-et-Marne;Île-de-France;2,7045126;48,8213887
+356;SERATEC SAS;Village des Entreprises 2, rue du Thymerais ;28190;Courville-sur-Eure;28;Eure-et-Loir;Centre-Val de Loire;1,2387543;48,4502626
+357;Saint-Gobain Coating Solutions;50 rue du Mourelet ZI Courtine ;84000;Avignon;84;Vaucluse;Provence-Alpes-Côte d'Azur;4,8059012;43,9492493
+358;BRENNTAG SA;12, rue de Chatillon ;75014;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+359;Sanofi Montpellier;1, Avenue Pierre Brossolette ;91380;Chilly-Mazarin;91;Essonne;Île-de-France;2,3123582;48,7026161
+360;SANOFI R&D Vitry sur Seine;1, avenue Pierre Brossolette ;91380;Chilly-Mazarin;91;Essonne;Île-de-France;2,3123582;48,7026161
+361;ROUEIL;Montbrault;53170;Arquenay;53;Mayenne;Pays de la Loire;-0,5701665;47,9863014
+362;ALCHIM AROMATIQUES;20, rue Joseph Marie Jacquard Z.I. Sud - B.P. 10186 ;67405;Illkirch-Graffenstaden;67;Bas-Rhin;Grand Est;7,7116218;48,5298611
+363;DAVEY BICKFORD ENAEX;Le Moulin Gaspard Chemin de la Pyrotechnie ;89550;Héry;89;Yonne;Bourgogne-Franche-Comté;3,62501;47,90093
+364;PALC SAS;Zone Artisanale ;67170;Wingersheim;67;Bas-Rhin;Grand Est;7,634857465;48,7306109
+365;ORLICAT SARL;3 rue des Glénans ;35760;Saint-Grégoire;35;Ille-et-Vilaine;Bretagne;-1,685398;48,1524129
+366;Aromes & Gourmandiz;49 Rue De Bellevue ;92100;Boulogne-Billancourt;92;Hauts-de-Seine;Île-de-France;2,240206;48,8356649
+367;PRODUITS CHIMIQUES MAZAL SAS;9 rue Stuart Mill Zone Industrielle de Magré ;87000;Limoges;87;Haute-Vienne;Nouvelle-Aquitaine;1,2644847;45,8354243
+368;SOPHARTEX;21, rue du Pessoir ;28500;Vernouillet;28;Eure-et-Loir;Centre-Val de Loire;1,3650922;48,7166545
+369;Etienne Lacroix Tous Artifices SA;Route de Guadiès ;9270;Charmont-sous-Barbuise;9;Ariège;Occitanie;4,1718077;48,4104072
+370;Vynova PPC (Thann - 68800);95, rue du Général de Gaulle B.P 60090 ;68802;Thann;68;Haut-Rhin;Grand Est;7,1020957;47,8101008
+371;Gifrer;8-10 rue Paul Bert ;69153;Décines-Charpieu;69;Rhône;Auvergne-Rhône-Alpes;4,9633314;45,773606
+372;SANOFI WINTHROP INDUSTRIE - AMBARES 33;1 rue de la Vierge Ambarès et Lagrave ;33565;Carbon-Blanc;33;Gironde;Nouvelle-Aquitaine;-0,50503;44,8937722
+373;SANOFI WINTHROP INDUSTRIE - TOURS 37;20, Avenue Raymont Aron ;92160;Antony;92;Hauts-de-Seine;Île-de-France;2,2959423;48,753554
+374;CEA (Commissariat à l’Energie Atomique et aux Energies Alternatives) / Centre de Marcoule;CEA Centre de Marcoule Lieu-dit-Marcoule - BP 17171  ;30207;Bagnols-sur-Cèze;30;Gard;Occitanie;4,6235831;44,160481
+375;CEA Grenoble;17, avenue des Martyrs ;38054;Grenoble;38;Isère;Auvergne-Rhône-Alpes;5,7357819;45,1875602
+376;IFPEN Lyon;Rond-Point de l'échangeur de Solaize BP 3 ;69360;Solaize;69;Rhône;Auvergne-Rhône-Alpes;4,8386564;45,6406079
+377;CONSEIL DE L’EUROPE - EDQM;Direction Européenne de la Qualité du Médicament 7 Allée Kastner - CS 30026 ;67081;Strasbourg;67;Bas-Rhin;Grand Est;7,7507127;48,584614
+378;Institut Max Von Laue-Paul Langevin;71, avenue des Martyrs CS20156 ;38042;Grenoble;38;Isère;Auvergne-Rhône-Alpes;5,7357819;45,1875602
+379;PRODUITS CHIMIQUES PLATRET;27 rue de Montréal Zone Industrielle - BP 458 ;74108;Annemasse;74;Haute-Savoie;Auvergne-Rhône-Alpes;6,2341093;46,1934005
+380;ASFO Grasse;48 Avenue Riou Blanquet B.P. 21017 ;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+381;Unité M2SV Biostructures et découverte de Médicament (institut pasteur);Faculté de Pharmacie de Lille U761 Biostructures et Découverte de Médicament 3 rue du Professeur Laguesse ;59006;Lille;59;Nord;Hauts-de-France;3,0635282;50,6365654
+382;Chimie plus;21, rue Eugène Hanaff ;94400;Vitry-sur-Seine;94;Val-de-Marne;Île-de-France;2,39164;48,7876
+383;GUEDANT SAS;zone industrielle de Poigny Avenue du Parc ;77160;Poigny;77;Seine-et-Marne;Île-de-France;3,2825237;48,5393825
+384;ENVIRONIUM;36 avenue du Maréchal de Lattre de Tassigny ;66160;Le Boulou;66;Pyrénées-Orientales;Occitanie;0,5863309;45,4051111
+385;MARKEM-IMAJE INDUSTRIES;9, rue Gaspard Monge ;26500;Bourg-lès-Valence;26;Drôme;Auvergne-Rhône-Alpes;4,8953847;44,9528222
+386;SMARTOX;6 Rue des Platanes ;38120;Saint-Égrève;38;Isère;Auvergne-Rhône-Alpes;5,681781;45,2325079
+387;A&P Lithos;20 rue Joliot Curie CS 80011 Châteaubourg;35538;Noyal-sur-Vilaine;35;Ille-et-Vilaine;Bretagne;-1,5234735;48,1140789
+388;CNRS - Laboratoire CEISAM (UMR6230) Université de Nantes;CNRS UMR 6230 - Université de Nantes 2 rue de la Houssinière - BP 92208;44322;Nantes;44;Loire-Atlantique;Pays de la Loire;-1,5541362;47,2186371
+389;Institut Curie - Centre de Recherche (unité UMR3666-U1143);Centre de Recherche 26 Rue d'Ulm;75005;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+390;ARCHROMA France SAS;Rue du Flottage ;60350;Trosly-Breuil;60;Oise;Hauts-de-France;2,9882594;49,4011322
+391;SPL des Eaux du Cébron;1, barrage du Cébron ;79600;Louin;79;Deux-Sèvres;Nouvelle-Aquitaine;-0,1598929;46,8012556
+392;Minakem Beuvry Production;145, chemin des Lilas ;59310;Beuvry-la-Forêt;59;Nord;Hauts-de-France;3,2864498;50,4593377
+393;DIRECT CHIMIE;rue des Zéphyrs ;69740;Genas;69;Rhône;Auvergne-Rhône-Alpes;4,9965605;45,7330585
+394;ONRO CHEMICALS;38 rue Dunois ;75647;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+395;FAREVA; 29, route des Industries ;37530;Pocé-sur-Cisse;37;Indre-et-Loire;Centre-Val de Loire;0,991226;47,4432628
+396;SOCIETE DE PHYSIQUE ET DE CHIMIE;Parc d'activité des Béthunes 8 Avenue du Fief Bâtiment 9 ;95310;Saint-Ouen-l'Aumône;95;Val-D'Oise;Île-de-France;2,1059841;49,044765
+397;UPSA SAS; 3, rue Joseph Monier ;92500;Rueil-Malmaison;92;Hauts-de-Seine;Île-de-France;2,1802832;48,87778
+398;RECIPHARM PESSAC;11 avenue Gustave Eiffel Parc Industriel Bersol 1 ;33608;Pessac;33;Gironde;Nouvelle-Aquitaine;-0,6308396;44,805615
+399;BODYCOTE HARDINGSCENTRUM FRANCE;Zac de Brequette 1 rue des charpentiers ;57175;Gandrange;57;Moselle;Grand Est;6,1250201;49,2705976
+400;EVOTEC ID (Lyon) SAS - Site de Marcy-L'Etoile (69);1541 Avenue Marcel Mérieux ;69280;Marcy-l'Etoile;69;Rhône;Auvergne-Rhône-Alpes;4,7071338;45,7816572
+401;CEFOP;8 avenue du Bouton d'Or ;94370;Sucy-en-Brie;94;Val-de-Marne;Île-de-France;2,5221284;48,7711323
+402;CNRS (UMR 7313/Service 531) - Institut des Sciences Moléculaires (iSm2) - Aix-Marseille Université;xxx;13000;Marseille;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,3699525;43,2961743
+403;ALM RED;74 - 76 rue du Bourg Voisin ;21140;Semur-en-Auxois;21;Côte-d'Or;Bourgogne-Franche-Comté;4,3328705;47,4902149
+404;Stearinerie Dubois;Scoury ;36300;Ciron;36;Indre;Centre-Val de Loire;1,2460248;46,6302064
+405;SMARTBIOSCIENCE;6 rue des platanes ;38120;Saint-Egrève;38;Isère;Auvergne-Rhône-Alpes;5,681781;45,2325079
+406;PREMIUM GOODS;14 Rue Gay-Lussac ;94430;Chennevières-sur-Marne;94;Val-de-Marne;Île-de-France;2,530442;48,7965001
+407;GENEPEP;Les coteaux de Saint Roch 12 rue du Fer à Cheval ;34430;Saint-Jean-de-Védas;34;Hérault;Occitanie;3,8264197;43,5751791
+408;SAD PARFUMS;10 Rue Ariane ;33185;Le Haillan;33;Gironde;Nouvelle-Aquitaine;-0,6761661;44,872105
+409;Norgine PHARMA;29, rue Ethé Virton ;28109;Dreux;28;Eure-et-Loir;Centre-Val de Loire;1,3684254;48,7358807
+410;PMC ISOCHEM;32 Rue Lavoisier ;91710;Vert-le-Petit;91;Essonne;Île-de-France;2,3663092;48,5512575
+411;GIE LCH (Laboratoire des Courses Hippiques);LABORATOIRE DES COURSES HIPPIQUES 15, rue du Paradis ;91370;Verrières-le-Buisson;91;Essonne;Île-de-France;2,2653844;48,7467819
+412;SK FRANCE SAS;ZI Les Bois de Grasse 39 avenue Louison Bobet ;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+413;ATTRACTIVE SCENT;668 Allée des Parfums ;6530;Saint-Cézaire-sur-Siagne;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,7925537;43,6505213
+414;VO NEGOCE;9 Zone d'Activité du Pilon ;6460;Saint-Vallier-de-Thiey;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,8478583;43,6987023
+415;BESSE CLEMENCE;121 boulevard Saint Michel ;75005;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+416;OPELLA HEALTHCARE INTERNATIONAL - Lisieux;82 avenue Raspail ;94250;Gentilly;94;Val-de-Marne;Île-de-France;2,3483549;48,8153656
+417;COSMO INTERNATIONAL FRAGRANCES France SAS;12 place Victor Hugo ;75116;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+418;Centre Spécialité Pharmaceutique;35, rue de la Chapelle BP 30 ;63450;Saint-Amant-Tallende;63;Puy-de-Dôme;Auvergne-Rhône-Alpes;3,1091394;45,6689972
+419;LABELIANS;1 rue des Palis ;77140;Nemours;77;Seine-et-Marne;Île-de-France;2,6953079;48,268026
+420;LABORATOIRES HUMEAU;Z.A. Gesvrine 4, rue Képler B.P. 4125 ;44241;La Chapelle-sur-Erdre;44;Loire-Atlantique;Pays de la Loire;-1,5518632;47,2996846
+421;DELPHARM L’AIGLE;7, rue Fernand Michaux ZI N°1 - Secteur Ouest - BP 99 ;61303;L'Aigle;61;Orne;Normandie;0,6278039;48,7651713
+422;SYNAROME SASU;ZI Ed. Poillot 4 rue Charles Tellier ;28000;Chartres;28;Eure-et-Loir;Centre-Val de Loire;1,4881434;48,4438601
+423;QUOSENTIS SASU;292 avenue Magloire Giraud ;83740;La Cadière-d'Azur;83;Var;Provence-Alpes-Côte d'Azur;5,7549753;43,1960022
+424;ECOLE SUPERIEURE DE LA PRODUCTION DE LA MODE ET DU LUXE;34/36, rue du Parc de Clagny ;78000;Versailles;78;Yvelines;Île-de-France;2,1266886;48,8035403
+425;EUROAPI;9 rue du Président ALLENDE ;94256;Gentilly;94;Val-de-Marne;Île-de-France;2,3483549;48,8153656
+426;AROMES & SAVEURS;SPL SIGAL- Lot n°10 45 rue de l'Essonne ;91720;Prunay-sur-Essonne;91;Essonne;Île-de-France;2,3755413;48,3571722
+427;Damien BELLANGER ( EURL);2 La Maréchallerie ;53170;Saint-Charles-la-Forêt;53;Mayenne;Pays de la Loire;-0,5571658;47,9168021
+428;DSM Nutritional Product France;Boulevard d'Alsace ;68128;Village-Neuf;68;Haut-Rhin;Grand Est;7,5696755;47,6054816
+429;JLM Expansion  _ Entité commerciale: Nicolaï Parfumeur-Créateur;69, avenue Raymond Poincaré ;75116;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+430;GIVAUDAN LAVIROTTE;56 rue Paul Cazeneuve B.P. 8344 ;69356;Lyon;69;Rhône;Auvergne-Rhône-Alpes;4,8320114;45,7578137
+431;REVOL SAS;5 rue du Canal BP 1609 ;69606;Villeurbanne;69;Rhône;Auvergne-Rhône-Alpes;4,8868454;45,7733573
+432;DOUSSELIN GEOFFRAY JACQUET REUNIS;2, rue Gabriel Péri ;69270;Couzon-au-Mont-d'Or;69;Rhône;Auvergne-Rhône-Alpes;4,8252704;45,8435075
+433;SYNERLAB DEVELOPPEMENT;1 Rue Charles de Coulomb;45000;Orléans;45;Loiret;Centre-Val de Loire;1,9086066;47,9027336
+434;CPE LYON FCR;43, boulevard du 11 novembre 1918 ;69616;Villeurbanne;69;Rhône;Auvergne-Rhône-Alpes;4,8868454;45,7733573
+435;Boiron;2 avenue de l'Ouest Lyonnais ;69510;Messimy;69;Rhône;Auvergne-Rhône-Alpes;4,67418;45,6985
+436;LA MESTA CHIMIE FINE;1336, route de l'Esteron ;6830;Gilette;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;7,1637507;43,8500281
+437;LES DERIVES RESINIQUES ET TERPENIQUES;30, rue Gambetta BP 206 ;40105;Dax;40;Landes;Nouvelle-Aquitaine;-1,0518771;43,7084065
+438;MLPC International;209, avenue Charles Despiau ;40370;Rion-des-Landes;40;Landes;Nouvelle-Aquitaine;-0,94412868;43,93338835
+439;Agence Française de Lutte contre le Dopage – Département des Analyses;143 avenue Roger SALENGRO;92290;Châtenay-Malabry;92;Hauts-de-Seine;Île-de-France;2,2775316;48,7670404
+440;SAICA PAPER France;3 cours Baron Thénard ZI Les Guignons ;10400;Nogent-sur-Seine;10;Aube;Grand Est;3,4978181;48,492439
+441;ACM PHARMA;30-34, avenue du 21 aout 1944;45270;Bellegarde;45;Loiret;Centre-Val de Loire;0,6244444;43,4255556
+442;SICAL;15 rue Gérard Philippe;40990;Saint-Paul lès Dax;40;Landes;Nouvelle-Aquitaine;-1,0515491;43,7253162
+443;1903 RESEARCH AND SOLUTIONS S.A.S.;13 rue Jean Mermoz ;81160;Saint-Juéry;81;Tarn;Occitanie;2,2096659;43,9490655
+444;ACETO FRANCE SAS;43 avenue Marceau ;75116;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+445;ALMIMET SAS;18 rue de la Michodiere ;75002;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+446;AM GALLOIS SAS;26, rue Baronne de Rothschild ;60270;Gouvieux;60;Oise;Hauts-de-France;2,41521;49,1902
+447;Ardéa;34 Boulevard ORNANO ;93200;Saint-Denis;93;Seine-St-Denis;Île-de-France;2,3580232;48,935773
+448;AROMAFLEUR;14 route de Nice ;6650;Opio;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9820279;43,6684761
+449;Atlantic labo ics;22, rue de l'Hermite ;33520;Bruges;33;Gironde;Nouvelle-Aquitaine;-0,6111474;44,8842379
+450;AZUR FRAGRANCES;P.A.C. de l'Argile Lot n° 13 - B.P. 5 ;6370;Mouans-Sartoux;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9703991;43,6203852
+451;BASF France SAS;49, avenue Georges Pompidou ;92593;Levallois-Perret;92;Hauts-de-Seine;Île-de-France;2,2881683;48,892956
+452;BioCIS, CY Cergy Paris Université; Laboratoire BioCIS - Bâtiment F 5, mail Gay Lussac ;95000;Neuville-sur-Oise;95;Val-D'Oise;Île-de-France;2,0623676;49,0135534
+453;BIOLANDES TECHNOLOGIES;Route de Belis BP 2 ;40420;Le Sen;40;Landes;Nouvelle-Aquitaine;-0,5012634;44,1256573
+454;BOYE ACCOUVAGE;La Villonniere ;79310;La Boissière-en-Gâtine;79;Deux-Sèvres;Nouvelle-Aquitaine;-0,3702272;46,5573261
+455;CAPINOV;Zone Industrielle de Lanrinou CS 2010 ;29206;Landerneau;29;Finistère;Bretagne;-4,2557901;48,4514803
+456;CATIDOM;25 Chemin de la Croix Zone Industrielle des Césardes Seynod ;74600;Annecy;74;Haute-Savoie;Auvergne-Rhône-Alpes;6,1288847;45,8992348
+457;CEBIPHAR;1 rue de la Bodinière ;37230;Fondettes;37;Indre-et-Loire;Centre-Val de Loire;0,5961846;47,4036631
+458;CHIMIMECA;42, rue Ampère ;69680;Chassieu;69;Rhône;Auvergne-Rhône-Alpes;4,9681796;45,7422756
+459;Forafrance;Rue de l'AiguillageZA de Beauséjour;35520;La Mézière;35;Ille-et-Vilaine;Bretagne;-1,7557922;48,2193772
+460;CNRS (3278-UAR) - Centre de Recherche Insulaire et Observatoire de l’Environnement (CRIOBE);Université de Perpignan Via Domitia 52 Avenue Paul Alduy ;66860;Perpignan;66;Pyrénées-Orientales;Occitanie;2,8953121;42,6985304
+461;CNRS (UMR 7099) Laboratoire IBPC - LBPCPM - PARIS;Institut de Biologie Physico-Chimique- IBPC 13 rue Pierre et Marie CURIE ;75005;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+462;COLAS Environnement;91 rue de Folliouse ZAE de Folliouse ;1700;Miribel;1;Ain;Auvergne-Rhône-Alpes;4,9528525;45,8235227
+463;COMPTOIR NOUVEAU DE LA PARFUMERIE-HERMES PARFUMS;23 rue Boissy d'Anglas ;75008;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+464;CONCEPT FRAGRANCES ET COSMETIQUES;Bati Senteur Centre Commercial Espace 2 ;83440;Montauroux;83;Var;Provence-Alpes-Côte d'Azur;6,765164;43,617944
+465;CORNING;BP 90094 - Bagneaux-sur-Loing ;77792;Nemours;77;Seine-et-Marne;Île-de-France;2,6953079;48,268026
+466;SANOFI PASTEUR NVL;31-33 Quai Armand Barbès;69250;Neuville-sur-Saône;69;Rhône;Auvergne-Rhône-Alpes;4,8395051;45,8765557
+467;CTA Centrale Technique d’Approvisionnement;106 Boulevard Héloïse Parc des Harmoniques - Lot 5 ;95100;Argenteuil;95;Val-D'Oise;Île-de-France;2,2481797;48,9479069
+468;CYPREOS FRANCE EPONGES;192, rue Carnot ZI de la Pointe - Case 431 ;94124;Fontenay-sous-Bois;94;Val-de-Marne;Île-de-France;2,4749347;48,8490721
+469;DASSAULT AVIATION;78 Quai Marcel Dassault Cedex 300 ;92552;Saint-Cloud;92;Hauts-de-Seine;Île-de-France;2,219344;48,8437412
+470;DELPHARM Orléans;5 avenue de Concyr ;45071;Orléans;45;Loiret;Centre-Val de Loire;1,9086066;47,9027336
+471;DIRECT EXPORT;ZI Toulon Est 130, rue Marcelin Berthelot ;83130;La Garde-Freinet;83;Var;Provence-Alpes-Côte d'Azur;6,4687979;43,3196859
+472;DIVERCHIM CDMO SAS;ZAC du Moulin 6 rue du Noyer ;95734;Roissy-en-France;95;Val-D'Oise;Île-de-France;2,5176985;49,0032865
+473;ELIXENS;ZI du Vert Galant 66, Avenue du Château ;95040;Cergy;95;Val-D'Oise;Île-de-France;2,0388736;49,0527528
+474;ETABLISSEMENTS TIFLEX;10 avecnue de la 1ère armée française Rhin et Danube ;1450;Poncin;1;Ain;Auvergne-Rhône-Alpes;5,4073957;46,0860736
+475;EUROMEDEX;24 rue des Tuileries BP 684 ;67460;Souffelweyersheim;67;Bas-Rhin;Grand Est;7,7416302;48,6355292
+476;EVONIK REXIM SAS;33, rue de Verdun ;80400;Ham;80;Somme;Hauts-de-France;3,0733031;49,746322
+477;FLORESSENCE;Route de Grasse Z.A la Festre Sud - BP 26 ;6530;Saint-Cézaire-sur-Siagne;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,7925537;43,6505213
+478;GROSSERON SAS;ZAC HAUTS DE COUERON III SECTEUR 4 - 4 RUE DES ENTREPRENEURS ;44220;Couëron;44;Loire-Atlantique;Pays de la Loire;-1,7271466;47,2115054
+479;HSWT France SAS;Site Créanor 2 Route de Bergues ;59210;Coudekerque-Branche;59;Nord;Hauts-de-France;2,3894321;51,020878
+480;Ingesciences;2 chemin des Arrestieux ;33610;Cestas;33;Gironde;Nouvelle-Aquitaine;-0,6841225;44,7411574
+481;SAFRAN AIRCRAFT ENGINES - Siège Paris;2 boulevard du Général Martin Valin;75724;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+482;CARSO LSEHL;4 Avenue Jean Moulin;69200;Vénissieux;69;Rhône;Auvergne-Rhône-Alpes;4,8855966;45,6977109
+483;INSTITUT PASTEUR;Service Prévention des Risques 25-28, rue du Docteur Roux ;75724;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+484;ISM (UMR 5255) - Université Bordeaux ;Service Hygiène et Sécurité Bât A 13 351, cours de la Libération ;33405;Talence;33;Gironde;Nouvelle-Aquitaine;-0,5879629;44,8088438
+485;JEAN NIEL SAS;179, Boulevard Emmanuel Rouquier Parc Industriel les Bois de Grasse ;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+486;KUHLMANN France (pdt chimiques de Loos);Rue Clémenceau CS 40039 ;59120;Loos;59;Nord;Hauts-de-France;3,0162523;50,6092082
+487;LABÉO (LABORATOIRE FRANK DUNCOMBE);Conseil général du Calvados 1 route de Rosel ;14280;Saint-Contest;14;Calvados;Normandie;-0,4011923;49,214191
+488;Laboratoire Aimée;44 Rue Nicolas Denys de Fronsac ;17000;La Rochelle;17;Charente-Maritime;Nouvelle-Aquitaine;-1,1520434;46,1591126
+489;Laboratoire de Synthèse Organique  - Ecole Polytechnique;Direction de la Recherche Route de Saclay ;91128;Palaiseau;91;Essonne;Île-de-France;2,2453842;48,7144587
+490;Laboratoires LEHNING;3, rue du Petit Marais ;57640;Sainte-Barbe;57;Moselle;Grand Est;6,3025498;49,1594116
+491;LAITERIE SAINT PÈRE;La Claie BP 2030 ;44320;Saint-Père-en-Retz;44;Loire-Atlantique;Pays de la Loire;-2,0444751;47,2066441
+492;LATOXAN S.A.S.;20, rue Léon Blum ;26000;Valence;26;Drôme;Auvergne-Rhône-Alpes;4,8920811;44,9332277
+493;Lvmh fragrance brands;77 rue Anatole France ;92300;Levallois-Perret;92;Hauts-de-Seine;Île-de-France;2,2881683;48,892956
+494;Magasin de Chimie - UNIVERSITE DE STRASBOURG (UNISTRA);Magasin de Chimie 1, rue Blaise Pascal ;67008;Strasbourg;67;Bas-Rhin;Grand Est;7,7507127;48,584614
+495;MARCUS SPURWAY;1722 route de Grasse 15 Parc d'Activités de la Festre Sud ;6530;Saint-Cézaire-sur-Siagne;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,7925537;43,6505213
+496;Merck Santé centre de production et de distribution de Meyzieu;37 rue Saint Romain ;69379;Lyon;69;Rhône;Auvergne-Rhône-Alpes;4,8320114;45,7578137
+497;MPE - matières premières essentielles;6, Chemin Saint-Joseph BP 25265 ;6131;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+498;NORMALAB France SAS;14, Rue de Lilas ;76210;Lintot;76;Seine-Maritime;Normandie;0,5681499;49,5628805
+499;NYRSTAR;Rue Jean Jacques Rousseau ;59950;Auby;59;Nord;Hauts-de-France;3,06175;50,4136
+500;OCENE SAS;Avenue de Monthorin ;35420;Louvigné-du-Désert;35;Ille-et-Vilaine;Bretagne;-1,1231428;48,4815182
+501;OLEON SAS;Rue les Rives de l'Oise ;60280;Venette;60;Oise;Hauts-de-France;2,8007412;49,4162216
+502;Oncodesign;20 rue Jean Mazen ;21000;Dijon;21;Côte-d'Or;Bourgogne-Franche-Comté;5,0414701;47,3215806
+503;Opérateur Perha Pharmaceuticals SAS;Lieudit Presqu'ile de Perharidy Bâtiment 1 ;29680;Roscoff;29;Finistère;Bretagne;-3,9828983;48,7255816
+504;Orangina Suntory France Production;ZI de Flein ;45450;Donnery;45;Loiret;Centre-Val de Loire;2,11219;47,9126
+505;PANCOSMA France SAS;Zone Industrielle d'Arlod BP 24 ;1200;Bellegarde-sur-Valserine;1;Ain;Auvergne-Rhône-Alpes;5,83074956;46,1073321
+506;PARFUMS CHRISTIAN DIOR;33 avenue Hoche 75008PARIS ;75008;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+507;PARFUMS ENSEIGNEMENT - Ecole Supérieure du Parfum;Ecole Supérieure du Parfum 13, rue Miollis ;75015;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+508;PERFUM;223 Avenue Charles de Gaulle ;92200;Neuilly-sur-Seine;92;Hauts-de-Seine;Île-de-France;2,2695658;48,884683
+509;ROOWIN;20, rue Henri Goudier Z.I. La Varenne ;63200;Riom;63;Puy-de-Dôme;Auvergne-Rhône-Alpes;3,1136667;45,893068
+510;SBS;30 rue Gambetta BP 206 ;40105;Dax;40;Landes;Nouvelle-Aquitaine;-1,0518771;43,7084065
+511;SEMOP EAUX DE DINAN Eau Potable;EAUX DE DINAN - EAU POTABLE 9 boulevard Préval ;22100;Quévert;22;Côtes d'Armor;Bretagne;-2,08416;48,4628
+512;H&C;9 rue du 11 novembre;69230;Saint-Genis-Laval;69;Rhône;Auvergne-Rhône-Alpes;4,7928827;45,6950021
+513;QUARON - Haubourdin;12 RUE DE LA RACHE;59320;Haubourdin;59;Nord;Hauts-de-France;2,9864421;50,6093554
+514;QUARON - Montereau;RUE DES SECHERONS;77130;Montereau-Fault-Yonne;77;Seine-et-Marne;Île-de-France;2,9557006;48,3849647
+515;QUARON - Niort;29 RUE BLAISE PASCAL;79000;Niort;79;Deux-Sèvres;Nouvelle-Aquitaine;-0,4649403;46,3241132
+516;QUARON - Saint Jacques de la Lande;3 RUE DE LA BUHOTIERE;35136;Saint-Jacques-de-la-Lande;35;Ille-et-Vilaine;Bretagne;-1,7135029;48,0806436
+517;SVA Jean ROZE - VITRE;RUE VICTOR BALTARD;35500;Vitré;35;Ille-et-Vilaine;Bretagne;-1,214331;48,1244503
+518;SERIPHARM;Rue Démocrite ;72000;Le Mans;72;Sarthe;Pays de la Loire;0,1967849;48,0073849
+519;SESIA - SOCIÉTÉ D'EXPLOITATION DE SYSTEMES ET D'INSTALLATIONS D'EAU ET D'ASSAINISSEMENT;21 rue de la Boétie ;75008;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+520;SEVESSENCE;51 rue Saint Louis en l'Isle ;75004;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+521;SGS France;29 rue Aristide Briand ;94110;Arcueil;94;Val-de-Marne;Île-de-France;2,3366502;48,8064996
+522;SIMAFEX ;16 avenue des Fours à Chaux ;17230;Marans;17;Charente-Maritime;Nouvelle-Aquitaine;-0,9940538;46,3101338
+523;SIMFEX INTERNATIONAL;44-48 avenue de la Marne Bâtiment B - 1er étage Parc Joire ;59290;Wasquehal;59;Nord;Hauts-de-France;3,1312447;50,6691577
+524;SNSI PROVENCE;Avenue de la Saladelle Z.A. La Carraire ;13140;Miramas;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,0025809;43,582733
+525;SODEBO;1 boulevard Palissy ;85600;Saint-Georges-de-Montaigu;85;Vendée;Pays de la Loire;-1,2966952;46,9477099
+526;STEINER;9, route de Rouen BP 1161 ;27950;Saint-Marcel;27;Eure;Normandie;1,454725;49,0984117
+527;JNTL Consumer Health (France);Domaine de Maigremont;27100;Val-de-Reuil;27;Eure;Normandie;1,2128992;49,2716839
+528;Robertet - site de Grasse n°2;10 avenue Yves-Emmanuel Baudoin;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+529;CEA Paris Saclay - centre de Saclay;route RN 306/ RD 36;91191;Gif-sur-Yvette;91;Essonne;Île-de-France;2,134529;48,7018823
+530;Eurofins Amatsi Analytics - site de Peyruis;2 rue des Oliviers;4310;Peyruis;4;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur;5,9408922;44,0300301
+531;TECHNIC FRANCE;15 rue de la Montjoie ;93210;La Plaine Saint-Denis;93;Seine-St-Denis;Île-de-France;2,3658756;48,9118584
+532;Union InVivo – Laboratoire Laboragro;83 avenue de la Grande Armée ;75116;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+533;UNIPEX SOLUTIONS France;Tour Franklin - 100/101 Terrasse Boieldieu La Défense 8 ;92042;Paris-la-Défense;92;Hauts-de-Seine;Île-de-France;2,4360689;48,8425689
+534;TIMAC AGRO;27, Avenue Franklin Roosevelt;35400;Saint-Malo;35;Ille-et-Vilaine;Bretagne;-2,0260409;48,649518
+535;VICTOR MARTINET & Cie;Hameau de la Croix Madelon  ;60530;Le Mesnil-en-Thelle;60;Oise;Hauts-de-France;2,284162;49,1768774
+536;Evotec (France) SAS;195 Route d'Espagne ;31036;Toulouse;31;Haute-Garonne;Occitanie;1,4442469;43,6044622
+537;Institut Charles Sadron - UPR22 - CNRS;CNRS UPR 22 23, rue du Loess - B.P. 84047 ;67034;Strasbourg;67;Bas-Rhin;Grand Est;7,7507127;48,584614
+538;Aroma Sense;3, allée des Maraîchers ;13013;Marseille;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,3699525;43,2961743
+539;SARREL;38 rue Paul Chevalier;72260;Marolles-les-Braults;72;Sarthe;Pays de la Loire;0,322844791;48,2535289
+540;SEPPIC Castres;75, quai d'Orsay ;75321;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+541;ARXADA France;55 rue Aristide BRIAND ;92309;Levallois-Perret;92;Hauts-de-Seine;Île-de-France;2,2881683;48,892956
+542;DELPHARM TOURS;Rue Paul Langevin BP 90241 ;37172;Chambray-lès-Tours;37;Indre-et-Loire;Centre-Val de Loire;0,714368;47,3390872
+543;DECACHIMIE SAS;3 rue de la Barre ;69002;Lyon;69;Rhône;Auvergne-Rhône-Alpes;4,8320114;45,7578137
+544;Département de Chimie Moléculaire - UMR UGA-CNRS 5250 - Université Grenoble Alpes;Département de Chimie Moléculaire UMR CNRS 5250 570 rue de la Chimie - BP 53 ;38041;Grenoble;38;Isère;Auvergne-Rhône-Alpes;5,7357819;45,1875602
+545;INVENTIVA SA;31 avenue de SEGUR ;75007;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+546;OLFACTEA SARL;478 Avenue Marie CurieQuai Jean Jaurès;7800;Voulte-sur-Rhône (La);7;Ardèche;Auvergne-Rhône-Alpes;4,7813846;44,8000756
+547;D2M SANTE;Parc d'activité Pra de SerreRue Léon Serpollet;63960;Veyre-Monton;63;Puy-de-Dôme;Auvergne-Rhône-Alpes;3,1648468;45,6732958
+548;Ecole Nationale Supérieure de Chimie (ENSCM) - Montpellier; UMR 5618 CNRS 8, rue de l'Ecole Normale;34296;Montpellier;34;Hérault;Occitanie;3,8767337;43,6112422
+549;AALBERTS SURFACE TECHNOLOGIES;9, Chemin des Roses BP 9 - Cormenon;41170;Cormenon;41;Loir-et-Cher;Centre-Val de Loire;0,8921337;47,9702754
+550;SDEA ALSACE-MOSELLE;Espace européen de l'entreprise Schiltigheim BP 10020;67013;Strasbourg;67;Bas-Rhin;Grand Est;7,7507127;48,584614
+551;INSERM U1046 PhyMedExp;163 rue Auguste Broussonnet;34090;Montpellier;34;Hérault;Occitanie;3,8767337;43,6112422
+552;VERA CHIMIE DEVELOPPEMENTS (VCD);35 rue de la Garenne;38070;Saint-Quentin-Fallavier;38;Isère;Auvergne-Rhône-Alpes;5,1106322;45,6314982
+553;IUT d'Orsay;Université Paris-Sud - Bât 605Plateau du Moulon - Rue Noëtzlin;91400;Orsay;91;Essonne;Île-de-France;2,187457;48,699184
+554;VENATOR PIGMENTS France SAS;203, route de Wervicq;59560;Comines;59;Nord;Hauts-de-France;3,0066319;50,7653265
+555;YOPLAIT PRODUCTION France;150 Rue Gallieni;92100;Boulogne-Billancourt;92;Hauts-de-Seine;Île-de-France;2,240206;48,8356649
+556; QUALTECH;Pôle technologique Brabois7, rue du Bois de la Champelle - BP 267;54500;Vandœuvre-lès-Nancy;54;Meurthe-et-Moselle;Grand Est;6,1724618;48,6599676
+557;Mintegui logistique;3 avenue d¿AlegeraCentre Européen de Fret ;64990;Mouguerre;64;Pyrénées-Atlantiques;Nouvelle-Aquitaine;-1,4149834;43,4694806
+558;TWISTAROMA;34, rue de la Liberté;67114;Eschau;67;Bas-Rhin;Grand Est;7,7153003;48,4856711
+559;Société des eaux de Melun;198 rue FochZI de Vaux-le-Pénil;77005;Melun;77;Seine-et-Marne;Île-de-France;2,6608169;48,539927
+560;Protelor;6 rue Barbès;92305;Levallois-Perret;92;Hauts-de-Seine;Île-de-France;2,2881683;48,892956
+561;TEREOS;11, rue Pasteur;2390;Origny-Sainte-Benoite;2;Aisne;Hauts-de-France;3,4879558;49,8399408
+562;CNRS (UMR 5305) - UCBL - Institut de Biologie et Chimie des Protéines - Lyon;Université Lyon 1 7, passage du Vercors ;69367;Lyon;69;Rhône;Auvergne-Rhône-Alpes;4,8320114;45,7578137
+563;AGUR (Aquitaine de Gestion Urbaine et Rurale) - Usine d'eau potable de Xoldo;Route du filtre;64122;Urrugne;64;Pyrénées-Atlantiques;Nouvelle-Aquitaine;-1,7003017;43,3624715
+564;AGUR (Aquitaine de Gestion Urbaine et Rurale) - Usine d'eau potable de Bellevue;nan;16500;Saint-Germain-de-Confolens;16;Charente;Nouvelle-Aquitaine;0,691269028;46,04865085
+565;CNRS / Université Toulouse III-Paul SABATIER - IMRCP – UMR 5623;Laboratoire des Interactions Moléculaires et Réactivité Chimique et Photochimique - UMR 5623 - Bâtiment 2R1 - 3ème étage 118 route de Narbonne ;31062;Toulouse;31;Haute-Garonne;Occitanie;1,4442469;43,6044622
+566;LOR'N PACK;14 rue Camille Flammarion;54300;Lunéville;54;Meurthe-et-Moselle;Grand Est;6,4919563;48,5916164
+567;FRANCE AGRO INDUSTRIES;8, rue René Fonck;44860;Saint-Aignan-Grandlieu;44;Loire-Atlantique;Pays de la Loire;-1,6345992;47,1224436
+568;ANALYTEC;Espace Performance La Fleuriaye2 rue Alessandro Volta;44470;Carquefou;44;Loire-Atlantique;Pays de la Loire;-1,4921233;47,2971979
+569;GENESIS LAB;Port de Plaisance de TogaBâtiment G;20200;Ville-di-Pietrabugno;20;Haute-Corse;Corse;9,4321598;42,7127571
+570;Bio-Rad;3 Boulevard Raymond Poincaré;92430;Marnes-la-Coquette;92;Hauts-de-Seine;Île-de-France;2,1756093;48,8293583
+571;DISLAB;247 D route de Béthune;62300;Lens;62;Pas-de-Calais;Hauts-de-France;2,8319805;50,4291723
+572;KERMEL;20 Rue Ampère;68027;Colmar;68;Haut-Rhin;Grand Est;7,3579641;48,0777517
+573;CREATIONS & PARFUMS;Route de Grasse Quartier de la Graou-Sud;6530;Saint-Cézaire-sur-Siagne;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,7925537;43,6505213
+574;DEGREMONT France;16 place de l'Iris;92040;Paris-la-Défense;92;Hauts-de-Seine;Île-de-France;2,4360689;48,8425689
+575;Tereos - Artenay;Rte de Paris;45410;Artenay;45;Loiret;Centre-Val de Loire;1,8785823;48,0825788
+576;DURBAN (PRODUITS AROMATIQUES A. DURBAN);Le BourgSt Martial d'Albarède;24160;Excideuil;24;Dordogne;Nouvelle-Aquitaine;1,0490102;45,336641
+577;QUALTECH GROUPE;7,Rue du Bois de la Champelle;54500;Vandœuvre-lès-Nancy;54;Meurthe-et-Moselle;Grand Est;6,1724618;48,6599676
+578;TRANSPORTS CAILLOT;ZI du Buisson Sarrazin CS10009;51450;Bétheny;51;Marne;Grand Est;4,0535127;49,2845383
+579;GALINA VENDEE;3, place Eugène Fort - L'Oie;85140;Essarts-en-Bocage;85;Vendée;Pays de la Loire;-1,212852279;46,7860407
+580;LPCR;12 rue des Sarcelles;67300;Schiltigheim;67;Bas-Rhin;Grand Est;7,7484488;48,6047148
+581;ONLY FRAGRANCES SARL;ZI de l’Argile – 720 Av.de la Quiéra;6370;Mouans-Sartoux;63;Puy-de-Dôme;Auvergne-Rhône-Alpes;6,9703991;43,6203852
+582;Creations Henry Jacques;64 chemin de la Sirène;83300;Draguignan;83;Var;Provence-Alpes-Côte d'Azur;6,4627333;43,5374662
+583;ASTIER DEMAREST SA;60 route de la Paoute Le Plan de Grasse - BP 51002;6131;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+584;BRABANT CHIMIE;X;45490;Mignères;45;Loiret;Centre-Val de Loire;2,6241455;48,0465706
+585;Commune de Toulon sur Arroux – Service Eau et Assainissement;service des eaux et de l'assainissement place de Lattre de Tassigny;71320;Toulon-sur-Arroux;71;Saône-et-Loire;Bourgogne-Franche-Comté;4,1387169;46,693513
+586;EUROTRADIA INTERNATIONAL;40 rue La Boétie;75008;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+587;Groupe MERIDIS (LABOVER);Parc Euromédecine 20, rue Robert Koch BP 27253;34086;Montpellier;34;Hérault;Occitanie;3,8767337;43,6112422
+588;INRAE SUPAGRO IPSiM Montpellier;Biochimie et Physiologie Moléculaire des Plantes ENSA-M/INRA;34060;Montpellier;34;Hérault;Occitanie;3,8767337;43,6112422
+589;KAYSERSBERG PHARMACEUTICALS (site de production RECIPHARM);15-23 avenue Georges FERRENBACH;68240;Kaysersberg;68;Haut-Rhin;Grand Est;7,241094009;48,1571873
+590;OQEMA SAS;80 rue Condorcet Bâtiment Corvette;38090;Vaulx-Milieu;38;Isère;Auvergne-Rhône-Alpes;5,1823217;45,612328
+591;TIMAC AGRO – usine de Tonnay-Charente;27 Avenue Franklin Roosevelt;35400;Saint-Malo;35;Ille-et-Vilaine;Bretagne;-2,0260409;48,649518
+592;UNITHER DEVELOPPEMENT BORDEAUX;Z.A. Tech-Espace Avenue Toussaint-Catros - Bât. 16;33185;Le Haillan;33;Gironde;Nouvelle-Aquitaine;-0,6761661;44,872105
+593;SPI AERO;61 avenue de Tréville;64130;Mauléon-Licharre;64;Pyrénées-Atlantiques;Nouvelle-Aquitaine;-0,8885873;43,2233373
+594;ANS Biotech;ZI La Varenne 20-22 rue Henri et Gilberte Goudier;63200;Riom;63;Puy-de-Dôme;Auvergne-Rhône-Alpes;3,1136667;45,893068
+595;ALBERT VIEILLE SAS;629 route de Grasse;6220;Vallauris;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;7,05859;43,5761001
+596;CNRS (UMR 5223) - Laboratoire Ingénierie des Matériaux Polymères - INSA de Lyon;Ingénierie des Matériaux Polymères Bat. Jules Verne 20 avenue Albert Einstein;69621;Villeurbanne;69;Rhône;Auvergne-Rhône-Alpes;4,8868454;45,7733573
+597;SITE DE STRASBOURG - ECPM;Univiversité de Strasbourg;67087;Strasbourg;67;Bas-Rhin;Grand Est;7,7507127;48,584614
+598;HUTCHINSON SA;Centre de recherche et innovation Rue Gustave Nourry - Entrée 1;45120;Châlette-sur-Loing;45;Loiret;Centre-Val de Loire;2,738158032;48,0217518
+599;SYNEOS HEALTH;Bioparc;6410;Biot;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;7,0966644;43,6280001
+600;SELEM;609 route de Pont de Vaux;1190;Chevroux;1;Ain;Auvergne-Rhône-Alpes;4,9483084;46,3809591
+601;Institut de Recherches Servier - croissy sur seine;125 chemin de ronde;78290;Croissy-sur-Seine;78;Yvelines;Île-de-France;2,1327881;48,8791554
+602;Institut de Recherches Servier - siège social;11 rue des Moulineaux;92150;Suresnes;92;Hauts-de-Seine;Île-de-France;2,2255727;48,8709053
+603;III-V LAB;Campus Polytechnique;91767;Palaiseau;91;Essonne;Île-de-France;2,2453842;48,7144587
+604;CNICG;Avenue du Colonel Puyaubert;46500;Gramat;46;Lot;Occitanie;1,723394;44,7789948
+605;CHU de DIJON - LABORATOIRE DE BIOLOGIE ET DE PATHOLOGIE;Plateau Technique de Biologie;21000;Dijon;21;Côte-d'Or;Bourgogne-Franche-Comté;5,0414701;47,3215806
+606;VALDEPHARM FAREVA;Parc Inductriel d'Incarville;27106;Val-de-Reuil;27;Eure;Normandie;1,2128992;49,2716839
+607;LABORATOIRE DE BIOLOGIE MEDICALE DU CENTRE HOSPITALIER D’ARRAS;57 avenue Winston Churchill;62022;Arras;62;Pas-de-Calais;Hauts-de-France;2,7772211;50,291048
+608;Parfessence - Parc Industriel « Les Bois de Grasse »;1 avenue Louison Bobet;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+609;XTSOLUTIONS;5 avenue du Général de Gaulle;60300;Senlis;60;Oise;Hauts-de-France;2,1523287;50,5331612
+610;Amble Nature et Chimie;ZA La Pecette - Lot 1;13250;Saint-Chamas;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,0341639;43,5497879
+611;MINAKEM DUNKERQUE PRODUCTION;224 avenue de la Dordogne Zone d'Entreprises du Nord Gracht;59640;Dunkerque;59;Nord;Hauts-de-France;2,3772525;51,0347708
+612;FRAGONARD;20, Bd Fragonard;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+613;TANNERIE DE VIVOIN;"lieu-dit ""Les Croix""";72170;Vivoin;72;Sarthe;Pays de la Loire;0,1558732;48,2338566
+614;LA GLORIETTE DISTRIBUTION;18 avenue Georges Besse;30300;Beaucaire;30;Gard;Occitanie;4,6392648;43,8085436
+615;FAREVA LA VALLEE;928 avenue Lavoisier;43700;Saint-Germain-Laprade;43;Haute-Loire;Auvergne-Rhône-Alpes;3,9687927;45,0381325
+616;EPSILON COMPOSITE;5 route de Hourtin;33340;Gaillan-en-Médoc;33;Gironde;Nouvelle-Aquitaine;-0,9578932;45,3234694
+617;PILI;135 avenue de Rangueil;31077;Toulouse;31;Haute-Garonne;Occitanie;1,4442469;43,6044622
+618;ADVENTURE LINE PRODUCTIONS;23 rue Linois;75015;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+619;ADVENTURE LINE PRODUCTIONS - FORT BOYARD;boulevard de la Fumée;17450;Fouras;17;Charente-Maritime;Nouvelle-Aquitaine;-1,0935837;45,9883689
+620;Takasago Europe Perfumery Laboratory SARL - Site de Saint-Ouen-L'Aumône (95);12 rue TORRICELLI;75017;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+621;QUARON - Cestas;4 CHE D AUGUSTE - 33610 CESTAS;33610;Cestas;33;Gironde;Nouvelle-Aquitaine;-0,6841225;44,7411574
+622;SVA Jean ROZE - TREMOREL;ZA LES GABORIAUX - 22230 TREMOREL;22230;Trémorel;22;Côtes d'Armor;Bretagne;-2,2884538;48,2001902
+623;FINORGA SAS;497, route de Givors;38670;Chasse-sur-Rhône;38;Isère;Auvergne-Rhône-Alpes;4,8114503;45,5789437
+624;OSF FRANCE;5 bis rue Léonard de Vinci;60230;Chambly;60;Oise;Hauts-de-France;2,2444986;49,1662774
+625;hôpital Purpan;1 place du Docteur Blayac;31059;Toulouse;31;Haute-Garonne;Occitanie;1,4442469;43,6044622
+626;Université de Reims Champagne Ardenne - Institut de Chimie Moléculaire de Reims _UMR 7312;Institut de Chimie Moléculaire de Reims - ICMR UMR 7312 UFR Sciences Exactes et Naturelles Campus Moulin de la Housse - Bâtiment 18;51687;Reims;51;Marne;Grand Est;4,031926;49,2577886
+627;DELPHARM EVREUX;5, rue Du Guesclin;27002;Evreux;27;Eure;Normandie;1,1510164;49,0268903
+628;site 1 : Mouans-Sartoux;Parc d'Activités de l'Argile VI 460-610, Avenue de la Quiéra;6370;Mouans-Sartoux;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9703991;43,6203852
+629;CANAL BIOTECH 2;3 rue des satellites;31400;Toulouse;31;Haute-Garonne;Occitanie;1,4442469;43,6044622
+630;Centrale d'Achat Pour l'Afrique - CAP Afrique;416 avenue des Alpines;13370;Mallemort;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,1802855;43,7314716
+631;Laboratoire Pharmacologie Toxicologie  et Gaz du Sang;25 boulevard Pasteur;42055;Saint-Etienne;42;Loire;Auvergne-Rhône-Alpes;4,3873058;45,4401467
+632;CNRS - Laboratoire CP2M (UMR 5265) - CPE-Univ Lyon;Bât 308 F - BP 2077 43, bd du 11 novembre 1918;69616;Villeurbanne;69;Rhône;Auvergne-Rhône-Alpes;4,8868454;45,7733573
+633;Atelier Français des Matieres;Archamps Technopole;74160;Archamps;74;Haute-Savoie;Auvergne-Rhône-Alpes;6,1332458;46,1354538
+634;Eurofins Cerep;2 rue du professeur Gargouil;86600;Celle-Lévescault;86;Vienne;Nouvelle-Aquitaine;0,163604532;46,40655325
+635;site de Ploufragan;7, rue du Sabot;22440;Ploufragan;22;Côtes d'Armor;Bretagne;-2,7933133;48,4893432
+636;Provepharm Life Solutions;20 rue Marc Donadille;13013;Marseille;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,3699525;43,2961743
+637;CNRS - Institut de Chimie des Substances Naturelles (ICSN) - UPR 2301;1 Avenue de la Terrasse;91198;Gif-sur-Yvette;91;Essonne;Île-de-France;2,134529;48,7018823
+638;SITE DE MULHOUSE - IRJBD;3bis rue Alfred Werner;68093;Mulhouse;68;Haut-Rhin;Grand Est;7,3389937;47,7467233
+639;INOVIE LABOSUD PROVENCE;5, Rue Edouard Amavet;13500;Martigues;13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5,0548176;43,4057279
+640;PIVERT;Parc Technologique des Rives de l'Oise;50149;Venette;50;Manche;Normandie;2,8007412;49,4162216
+641;Inserm U1239 - Université de Rouen;Université de Rouen Normandie Place Emile Blondel;76821;Mont-Saint-Aignan;76;Seine-Maritime;Normandie;1,0813;49,4679
+642;UTBM;10 rue Château;90400;Sevenans;90;Territoire de Belfort;Bourgogne-Franche-Comté;6,8654458;47,585829
+643;ACTIVATION - site de Chassieu;11 Avenue Albert Einstein;69100;Villeurbanne;69;Rhône;Auvergne-Rhône-Alpes;4,8868454;45,7733573
+644;ACTIVIATION - site de Meyrie;44 chemin du Maniguet;38300;Meyrié;38;Isère;Auvergne-Rhône-Alpes;5,28434;45,5608
+645;Robertet - site de Grasse n°3;48/108 avenue Jean Maubert;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+646;Robertet - site de Paris;24 rue Emile Menier;75016;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+647;GUERLAIN - Site de Orphin;Le Bois de la Grange;78125;Orphin;78;Yvelines;Île-de-France;1,7800076;48,5794402
+648;GUERLAIN - Siège social;125, rue du Président Wilson;92593;Levallois-Perret;92;Hauts-de-Seine;Île-de-France;2,2881683;48,892956
+649;Campus Beaulieu - Direction immobilière Logistique / Magasin de produits chimiques;263 avenue du Général Leclerc;35042;Rennes;35;Ille-et-Vilaine;Bretagne;-1,6800198;48,1113387
+650;ISCR - Campus de Beaulieu;263 avenue du Général Leclerc;35042;Rennes;35;Ille-et-Vilaine;Bretagne;-1,6800198;48,1113387
+651;UFR PHARMACIE - Campus Villejean;2 AV DU PROF LEON BERNARD;35042;Rennes;35;Ille-et-Vilaine;Bretagne;-1,6800198;48,1113387
+652;ADISSEO - Site Saint Clair du Rhône;avenue Berthelot;38370;Saint-Clair-du-Rhône;38;Isère;Auvergne-Rhône-Alpes;4,7707377;45,4387498
+653;LT PIVER - Siège social;3, rue de la Boëtie;75008;Paris;75;Paris;Île-de-France;2,320041022;48,8588897
+654;PERRET RHONE ALPES - Site de CHABRILLAN;Quai Saint Laurent;26400;Chabrillan;26;Drôme;Auvergne-Rhône-Alpes;4,94344;44,724
+655;ARKEMA - site de FEUCHY;avenue de l'hermitage;62051;Saint-Laurent-Blangy;62;Pas-de-Calais;Hauts-de-France;2,8016229;50,2993922
+656;ARKEMA - site de PIERRE-BENITE;chemin de la Lone;69491;Pierre-Bénite;69;Rhône;Auvergne-Rhône-Alpes;4,8241323;45,7028321
+657;ARKEMA - site de SAINT-AUBAN;cité de Saint-Auban;4600;Château-Arnoux-Saint-Auban;4;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur;6,0080053;44,0936899
+658;CEA Paris Saclay - centre de Fontenay-aux-Roses;18 route du Panorama;92265;Fontenay-aux-Roses;92;Hauts-de-Seine;Île-de-France;2,2870373;48,7911052
+659;CEA Paris Saclay - centre d'Evry;2 RUE GASTON CREMIEUX;91057;Évry;91;Essonne;Île-de-France;3,25604;48,26406
+660;IFF - site de DIJON;9bis rue René Char;21000;Dijon;21;Côte-d'Or;Bourgogne-Franche-Comté;5,0414701;47,3215806
+661;IFF - site de GRASSE;Parc industriel du Bois de Grasse;6130;Grasse;6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;6,9239103;43,6589011
+662;IFF - site de NEUILLY SUR SEINE;61 rue de Villiers;92523;Neuilly-sur-Seine;92;Hauts-de-Seine;Île-de-France;2,2695658;48,884683
+663;site de Noyant;Rabion Lanière Bouton;49490;Noyant-Villages;49;Maine-et-Loire;Pays de la Loire;0,107178695;47,51117495
+664;site de Levallois-Perret;6, rue Barbès;92305;Levallois-Perret;92;Hauts-de-Seine;Île-de-France;2,2881683;48,892956
+665;Eurofins Amatsi Analytics - site de Fontenilles;Parc de Génibrat;31470;Fontenilles;31;Haute-Garonne;Occitanie;1,1911389;43,5527351
+666;Gaches Chimie - site ESCALQUENS;17 avenue de la Gare;31750;Escalquens;31;Haute-Garonne;Occitanie;1,5620474;43,51833
+667;Gaches Chimie - site MOURENX;route d'Artix;64150;Mourenx;64;Pyrénées-Atlantiques;Nouvelle-Aquitaine;-0,6294321;43,3708943
+668;Janssen Cilag - Val de Reuil;Domaine de Maigremont;27100;Val-de-Reuil;27;Eure;Normandie;1,2128992;49,2716839
+669;Janssen- Cilag - Siège social;1, rue Camille Desmoulins TSA 91003;92787;Issy-les-Moulineaux;92;Hauts-de-Seine;Île-de-France;2,273457;48,8250508
+670;PROVA - Site d'AUTRY SUR JUINE;"lieu-dit ""la Borne Jaune"" - ZI";45480;Autruy-sur-Juine;45;Loiret;Centre-Val de Loire;2,1035333;48,2758206
+671;SAFRAM France - Site de Tremblay en France;176 rue des Chardonnerets;93290;Tremblay-en-France;93;Seine-St-Denis;Île-de-France;2,5589558;48,9802035
+672;Université de Picardie - UFR de Pharmacie (Laboratoire AGIR);1, rue des Louvels;80037;Amiens;80;Somme;Hauts-de-France;2,2956951;49,8941708
+673;SAFRAN ADDITIVE MANUFACTURING CAMPUS;Rue de Touban;31385;Le Haillan;31;Haute-Garonne;Occitanie;-0,6761661;44,872105
+674;Communauté des communes de MIMIZAN;Service de l'eau et de l'assainissement 3, avenue de la Gare - BP 44;40201;Mimizan;40;Landes;Nouvelle-Aquitaine;-1,2309278;44,2019796
